@@ -1,7 +1,5 @@
 # Cameras
 
-Cameras
-
 FirstStage provides a powerful camera system. Cameras can be easily created with the Viewfinder and then animated with complex motion paths. Cameras can automatically look at targets and follow targets (the two targets do not need to be the same).
 
 ### Using the Viewfinder <a href="#_gi37kx4aa5b" id="_gi37kx4aa5b"></a>
