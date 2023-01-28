@@ -1,2 +1,3 @@
 # Welcome to FirstStage
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Projects &#x26; Scenes</td><td></td><td></td></tr><tr><td>Getting started in VR</td><td></td><td></td></tr><tr><td>Assets</td><td></td><td></td></tr><tr><td>Core Tools</td><td></td><td></td></tr><tr><td>WristPad</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Crafting</td><td></td><td></td></tr><tr><td>Motion</td><td></td><td></td></tr><tr><td>Cameras</td><td></td><td></td></tr><tr><td>Lighting</td><td></td><td></td></tr><tr><td>Sound</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Collaboration</td><td></td><td></td></tr></tbody></table>

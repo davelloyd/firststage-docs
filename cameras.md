@@ -12,7 +12,11 @@ The Viewfinder screen shows what the camera is seeing through the lens.
 
 On the left hand side, there are three levers which allow you to adjust the focus, lens and aperture.
 
-Note that the depth-of-field blurring is a real-time approximation and will not give large bokeh.
+{% hint style="info" %}
+The depth-of-field blurring is a real-time approximation and will not give large bokeh.
+{% endhint %}
+
+
 
 ### Setting the Target <a href="#_fvczo6lrall6" id="_fvczo6lrall6"></a>
 
