@@ -10,17 +10,13 @@
 * [Quick Tour](basics/quick-tour.md)
 * [Projects and Scenes](basics/projects-and-scenes.md)
 
-***
-
-* [Page 1](page-1.md)
-
 ## Crafting
 
 * [Sketching](sketching.md)
 
 ## Camerawork
 
-* [Cameras](camerawork/cameras.md)
+* [Cameras](cameras.md)
 
 ## Asset Management
 
