@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to FirstStage](README.md)
-* [Cameras](cameras.md)
 
 ## Basics
 
@@ -11,13 +10,17 @@
 * [Quick Tour](basics/quick-tour.md)
 * [Projects and Scenes](basics/projects-and-scenes.md)
 
+***
+
+* [Page 1](page-1.md)
+
 ## Crafting
 
-* [Sketching](crafting/sketching.md)
+* [Sketching](sketching.md)
 
 ## Camerawork
 
-* [Page 2](camerawork/page-2.md)
+* [Cameras](camerawork/cameras.md)
 
 ## Asset Management
 
