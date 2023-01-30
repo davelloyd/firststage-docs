@@ -9,6 +9,8 @@
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
 * [Quick Tour](basics/quick-tour.md)
 * [Projects and Scenes](basics/projects-and-scenes.md)
+* [WristPad](basics/wristpad.md)
+* [Asset Library](basics/asset-library.md)
 
 ## Crafting
 
@@ -19,6 +21,8 @@
 * [Performance Capture](animation/performance-capture/README.md)
   * [Motion Capture (VRIK)](animation/performance-capture/motion-capture-vrik.md)
   * [Face Capture](animation/performance-capture/face-capture.md)
+* [Posing Characters](animation/posing-characters.md)
+* [Rigid Animation](animation/rigid-animation.md)
 
 ## Camerawork
 
