@@ -7,9 +7,11 @@
 * [Getting Started](basics/getting-started/README.md)
   * [Oculus Quest](basics/getting-started/oculus-quest.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
+  * [Controllers](basics/getting-started/controllers.md)
 * [Quick Tour](basics/quick-tour.md)
 * [Projects and Scenes](basics/projects-and-scenes.md)
-* [WristPad](basics/wristpad.md)
+* [WristPad](basics/wristpad/README.md)
+  * [Inspector](basics/wristpad/inspector.md)
 * [Asset Library](basics/asset-library.md)
 
 ## Crafting
@@ -33,7 +35,8 @@
 
 ## Ineractive Scenes
 
-* [Branching Scripts & Triggers](ineractive-scenes/branching-scripts-and-triggers.md)
+* [Branching Scripts](ineractive-scenes/branching-scripts.md)
+* [Triggers](ineractive-scenes/triggers.md)
 
 ## Asset Management
 
