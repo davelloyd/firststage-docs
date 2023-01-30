@@ -1,6 +1,6 @@
 # WristPad
 
-<figure><img src="../../.gitbook/assets/WristPad.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WristPad.jpeg" alt=""><figcaption></figcaption></figure>
 
 #### Home Screen Tools
 

@@ -10,7 +10,7 @@
   * [Controllers](basics/getting-started/controllers.md)
 * [Quick Tour](basics/quick-tour.md)
 * [Projects and Scenes](basics/projects-and-scenes.md)
-* [WristPad](basics/wristpad/README.md)
+* [WristPad](basics/wristpad.md)
   * [Inspector](basics/wristpad/inspector.md)
 * [Asset Library](basics/asset-library.md)
 
@@ -35,7 +35,7 @@
 
 ## Ineractive Scenes
 
-* [Branching Scripts](ineractive-scenes/branching-scripts.md)
+* [Branching Scripts](ineractive-scenes/branching-scripts-and-triggers.md)
 * [Triggers](ineractive-scenes/triggers.md)
 
 ## Asset Management
