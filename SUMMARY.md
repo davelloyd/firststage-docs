@@ -14,11 +14,22 @@
 
 * [Sketching](sketching.md)
 
+## Animation
+
+* [Performance Capture](animation/performance-capture/README.md)
+  * [Motion Capture (VRIK)](animation/performance-capture/motion-capture-vrik.md)
+  * [Face Capture](animation/performance-capture/face-capture.md)
+
 ## Camerawork
 
 * [Cameras](cameras.md)
+
+## Ineractive Scenes
+
+* [Branching Scripts & Triggers](ineractive-scenes/branching-scripts-and-triggers.md)
 
 ## Asset Management
 
 * [Set up Unity](asset-management/set-up-unity.md)
 * [Source assets and import](asset-management/source-assets-and-import.md)
+* [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
