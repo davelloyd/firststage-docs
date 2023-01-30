@@ -17,6 +17,7 @@
 ## Crafting
 
 * [Sketching](sketching.md)
+* [Painting with Materials](crafting/painting-with-materials.md)
 
 ## Activities
 
@@ -25,6 +26,7 @@
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
   * [Face Capture](activities/performance-capture/face-capture.md)
+  * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
 * [Posing Characters](activities/posing-characters.md)
 * [Rigid Animation](activities/rigid-animation.md)
 * [Automation](activities/automation.md)
