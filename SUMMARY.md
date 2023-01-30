@@ -16,13 +16,16 @@
 
 * [Sketching](sketching.md)
 
-## Animation
+## Activities
 
-* [Performance Capture](animation/performance-capture/README.md)
-  * [Motion Capture (VRIK)](animation/performance-capture/motion-capture-vrik.md)
-  * [Face Capture](animation/performance-capture/face-capture.md)
-* [Posing Characters](animation/posing-characters.md)
-* [Rigid Animation](animation/rigid-animation.md)
+* [Timeline](activities/timeline.md)
+* [Script](activities/script.md)
+* [Performance Capture](activities/performance-capture/README.md)
+  * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
+  * [Face Capture](activities/performance-capture/face-capture.md)
+* [Posing Characters](activities/posing-characters.md)
+* [Rigid Animation](activities/rigid-animation.md)
+* [Automation](activities/automation.md)
 
 ## Camerawork
 
