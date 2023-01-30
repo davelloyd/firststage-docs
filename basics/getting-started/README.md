@@ -13,12 +13,12 @@ These are the steps you neeed to get going with FirstStage:
 
 If you have a Vive or an Index headset, SteamVR will be installed while setting up your headset.
 
-If you are using an Oculus Rift or Quest 2 or do not otherwise have SteamVR installed, you can [get it here](https://store.steampowered.com/app/250820/SteamVR/).
+If you are using an Oculus Rift or Quest 2 or do not otherwise have SteamVR installed, you can [get it here](https://store.steampowered.com/app/250820/SteamVR/). You will also need to setup the link between the headset and the PC. You can download the [Oculus software here.](https://www.meta.com/gb/quest/setup/)
 
 </details>
 
 {% hint style="info" %}
-Oculus Quest 2 users also need to set up the PC Link: [instructions here](oculus-quest.md).
+Oculus Quest 2 users also need to set up the PC Link: [instructions here](troubleshooting-oculus.md).
 {% endhint %}
 
 <details>
