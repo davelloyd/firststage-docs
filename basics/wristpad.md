@@ -2,9 +2,9 @@
 
 <figure><img src="../.gitbook/assets/WristPad.jpeg" alt=""><figcaption></figcaption></figure>
 
-#### Home Screen Tools
+## Home Screen Tools
 
-| **Tool**            | **Description**                                              |
+| Tool                | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
 | **Browser**         | Using the Web Browser for help and tutorials                 |
 | **Sketch Settings** | Controlling how sketching works                              |
@@ -22,11 +22,9 @@
 | **Collaboration**   | Communicating with your team                                 |
 | **Undo History**    | Using Undo and Redo                                          |
 
-#### Home Screen Button
+## Timeline controls
 
-Use the arrow to go back to the Home Screen from any control pane.
-
-#### Timeline controls
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 From left to right:
 
@@ -36,3 +34,10 @@ From left to right:
 * Go to end
 * Record
 * Current timeline position
+
+## Home Screen Button
+
+<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
+
+Use the arrow to go back to the Home Screen from any control pane.
+

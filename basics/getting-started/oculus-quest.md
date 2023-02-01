@@ -1,4 +1,4 @@
-# Troubleshooting Oculus
+# Setting up Oculus
 
 If you are using the Oculus Quest 2, you will need to setup the link between the headset and the PC. You can download the [Oculus software here.](https://www.meta.com/gb/quest/setup/)
 

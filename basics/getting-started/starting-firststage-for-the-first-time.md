@@ -10,7 +10,7 @@ First, you will need to log in with the credentials for your user account.&#x20;
 
 Next you will see the **Projects** screen. As this is the first time, you won't have one so click on the **Create** button.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Create your first Scene
 
@@ -18,7 +18,7 @@ Next you will see the **Scenes** screen. This will be empty to start with so cli
 
 For your first scene, choose the **Empty Stage**.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Run through the Tutorial
 

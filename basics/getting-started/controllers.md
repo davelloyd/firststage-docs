@@ -4,13 +4,13 @@ Familiarise yourself with the controllers before you get started and make sure y
 
 ## Vive
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (9).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (6).png>)
 
 ## Valve Index
 
-![](<../../.gitbook/assets/image (5).png>)![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (2).png>)
 
-## User Interface Functionality
+## Basic Controls
 
 ### Menu / B
 
@@ -20,7 +20,7 @@ Use this button to access the Tool Wheel and change tools.
 * Click the Menu Button to toggle between the current tool and the primary tool (Grabber on your main hand, Navigator on your off hand).
 * Click the Menu Buttons on both controllers at the same time to go to the Asset Library.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ### ThumbPad / ThumbStick
 

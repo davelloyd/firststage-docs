@@ -20,7 +20,7 @@ Unity can import SketchUp files directly and is very easy to use:
 
 Further details about using Unity's SketchUp importer can be found [here](https://docs.unity3d.com/Manual/class-SketchUpImporter.html).
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Example import settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example import settings</p></figcaption></figure>
 
 ### Importing as a Scene
 

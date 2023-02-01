@@ -5,11 +5,12 @@
 ## Basics
 
 * [Getting Started](basics/getting-started/README.md)
-  * [Setting up Oculus](basics/getting-started/setting-up-oculus.md)
+  * [Setting up Oculus](basics/getting-started/oculus-quest.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
-* [Quick Tour](basics/quick-tour.md)
-* [Projects and Scenes](basics/projects-and-scenes.md)
+* [The Office](basics/the-office/README.md)
+  * [Projects](basics/the-office/projects.md)
+  * [Scenes](basics/the-office/scenes.md)
 * [Core Tools](basics/core-tools/README.md)
   * [Grabber](basics/core-tools/grabber.md)
   * [Navigator](basics/core-tools/navigator.md)
@@ -21,7 +22,7 @@
   * [Viewfinder](basics/core-tools/viewfinder.md)
   * [Tape Measure](basics/core-tools/tape-measure.md)
 * [WristPad](basics/wristpad.md)
-  * [Inspector](basics/wristpad/inspector.md)
+  * [Settings](basics/wristpad/settings.md)
 * [Asset Library](basics/asset-library.md)
 * [Using FirstStage on the Desktop](basics/using-firststage-on-the-desktop.md)
 
