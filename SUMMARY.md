@@ -27,7 +27,7 @@
 
 ## Crafting
 
-* [Sketching](crafting/sketching/README.md)
+* [Sketching](sketching.md)
   * [Cutting a Tunnel](crafting/sketching/cutting-a-tunnel.md)
 * [Painting with Materials](crafting/painting-with-materials.md)
 * [Lathe](crafting/lathe.md)
