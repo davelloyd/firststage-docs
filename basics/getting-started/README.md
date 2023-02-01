@@ -18,7 +18,7 @@ If you are using an Oculus Rift or Quest 2 or do not otherwise have SteamVR inst
 </details>
 
 {% hint style="info" %}
-Oculus Quest 2 users also need to set up the PC Link: [instructions here](oculus-quest.md).
+Oculus Quest 2 users also need to set up the PC Link: [instructions here](setting-up-oculus.md).
 {% endhint %}
 
 <details>

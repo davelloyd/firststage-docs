@@ -5,7 +5,7 @@
 ## Basics
 
 * [Getting Started](basics/getting-started/README.md)
-  * [Troubleshooting Oculus](basics/getting-started/oculus-quest.md)
+  * [Setting up Oculus](basics/getting-started/setting-up-oculus.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
 * [Quick Tour](basics/quick-tour.md)

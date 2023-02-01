@@ -2,13 +2,17 @@
 
 Familiarise yourself with the controllers before you get started and make sure you are comfortable with the buttons.
 
-#### Vive
+## Vive
 
-#### Valve Index
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (9).png>)
 
-### User Interface Functionality
+## Valve Index
 
-#### Menu / B
+![](<../../.gitbook/assets/image (5).png>)![](<../../.gitbook/assets/image (3).png>)
+
+## User Interface Functionality
+
+### Menu / B
 
 Use this button to access the Tool Wheel and change tools.
 
@@ -16,11 +20,13 @@ Use this button to access the Tool Wheel and change tools.
 * Click the Menu Button to toggle between the current tool and the primary tool (Grabber on your main hand, Navigator on your off hand).
 * Click the Menu Buttons on both controllers at the same time to go to the Asset Library.
 
-#### ThumbPad / ThumbStick
+![](<../../.gitbook/assets/image (2).png>)
+
+### ThumbPad / ThumbStick
 
 The ThumbPad tracks the position of your thumb and provides access to functionality relative to your selected tool via a radial menu of up to four options - left, right, top and bottom.
 
-| **Tool**            | **Left**         | **Right**        | **Top**          | **Bottom**       |
+| Tool                | Left             | Right            | Top              |                  |
 | ------------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | **Navigator**       | Undo             | Redo             | Show menu        | Reset position   |
 | **Grabber**         | Undo             | Redo             | Show menu        | Reset position   |
@@ -36,11 +42,11 @@ Some tools use the thumb tracking for additional control, e.g. the Airbrush uses
 
 Tapping (not clicking) the ThumbPad will identify the target in the WristPad (see the Inspector tool for details).
 
-#### Trigger
+### Trigger
 
 Pulling the trigger performs the primary action for the tool, e.g. teleporting with the Navigator, moving something with the Grabber, etc.
 
-| **Tool**            | **Trigger**         |
+| Tool                | Trigger             |
 | ------------------- | ------------------- |
 | **Navigator**       | Undo (Click)        |
 | **Grabber**         | Grab (Hold)         |
@@ -54,14 +60,14 @@ Pulling the trigger performs the primary action for the tool, e.g. teleporting w
 
 The Vive trigger is sensitive to how far it is pushed and some tools use this. For example, the Viewfinder targets something with a soft squeeze and creates a camera with a hard squeeze.
 
-#### Grip
+### Grip
 
 This can be an awkward button to locate, but with 1st finger on the trigger you should find it on the side of the controller under your 2nd & 3rd fingertips (Vive) and 2nd,3rd & 4th fingertips (Index).
 
-| **Tool**            | **Grip**    |
+| Tool                | Grip        |
 | ------------------- | ----------- |
 | **Navigator**       |             |
-| **Grabber**         |             |
+| **Grabber**         | Toggle Snap |
 | **Animator**        |             |
 | **Sketcher**        | Toggle Snap |
 | **Airbrush**        |             |
@@ -79,7 +85,7 @@ See also: [Getting around the stage](https://firststage.moviestorm.co.uk/knowled
 
 In many contexts, clicking the grip button will toggle alternative behaviour for the current action. For example, clicking the grip button while holding something will toggle whether the thing should be kept vertical.
 
-#### Other Buttons
+### Other Buttons
 
 The System Menu button is not used by FirstStage (except to wake the controllers).
 
