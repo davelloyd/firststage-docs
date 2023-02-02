@@ -17,7 +17,7 @@
   * [Duplicator](basics/core-tools/duplicator.md)
   * [Selector](basics/core-tools/selector.md)
   * [Destroyer](basics/core-tools/destroyer.md)
-  * [Animator](basics/core-tools/animator.md)
+  * [Time Tool](basics/core-tools/time-tool.md)
   * [Sketcher](basics/core-tools/sketcher.md)
   * [Viewfinder](basics/core-tools/viewfinder.md)
   * [Tape Measure](basics/core-tools/tape-measure.md)
@@ -25,6 +25,7 @@
   * [Settings](basics/wristpad/settings.md)
 * [Asset Library](basics/asset-library.md)
 * [Using FirstStage on the Desktop](basics/using-firststage-on-the-desktop.md)
+* [Getting Around](basics/getting-around.md)
 
 ## Crafting
 
