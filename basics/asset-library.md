@@ -1,6 +1,6 @@
 # Asset Library
 
-Press the [Menu/B Buttons](https://firststage.moviestorm.co.uk/knowledgebase/controllers/) on both controllers at the same time to go to the Asset Library.
+You can summon the Asset Browser at any time by pressing both Menu buttons at once: blink and you will be in the Asset Browser, an inner space where you can search for and select assets to place on set.
 
 <figure><img src="../.gitbook/assets/Asset-Library-1024x576.jpeg" alt=""><figcaption></figcaption></figure>
 
