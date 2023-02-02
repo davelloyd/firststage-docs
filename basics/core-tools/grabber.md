@@ -6,6 +6,10 @@ Simply point the beam at something and pull the trigger to pick it up and move i
 
 Click the grip button to toggle grid snapping on or off. Go to the [Settings](../wristpad/settings.md) panel on the [WristPad](../wristpad.md) to change the snap settings.
 
+{% hint style="info" %}
+Not everything can be moved. It may be **Locked** and need unlocking from the Inspector or be part of the background stage.
+{% endhint %}
+
 ## Radial Menu
 
 * Undo
