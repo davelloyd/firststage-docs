@@ -19,5 +19,5 @@ Release the trigger to finish the animation. Recording will stop and a new activ
 
 * Record / Pause toggle.
 * Rewind to start of scene.
-* Advance time by a beat.
+* Advance time by a beat (useful for pose to pose animation).
 * Jog / shuttle control: hold and twist wrist to play time forwards/backwards at any speed.

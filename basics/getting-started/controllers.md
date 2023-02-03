@@ -20,7 +20,7 @@ The following gives you an idea how the different controls on your controller ar
 | Menu (Vive), A button (Index, Oculus) | <p>Access the Tool Menu and change tools.<br>Click the Menu Buttons on both controllers at the same time to go to the Asset Library.</p>                                                                        |
 | ThumbPad (Vive, Index)                | Tracks the position of your thumb and usually controls a radial menu of up to four options - left, right, top and bottom.                                                                                       |
 | ThumbStick (Index, Oculus)            | As the ThumbPad, usually controls a radial menu acting like a d-pad.                                                                                                                                            |
-| B button (Index, Oculus)              | Usually provides a direct binding to the Inspect Menu. Vive users will find Inspect in the Grabber radial menu.                                                                                                 |
+| B button (Index, Oculus)              | <p>Usually provides a direct binding to the Inspect Menu. Vive users will find Inspect in the Grabber radial menu. </p><p>On flat UI components will open a popup menu.</p>                                     |
 | Grip                                  | <p>Primarily used to <a href="../getting-around.md">move around the stage</a>.<br>In some contexts, clicking the grip button will toggle alternative behaviour for the current action. </p>                     |
 
 {% hint style="info" %}

@@ -8,9 +8,9 @@
   * [Setting up Oculus](basics/getting-started/oculus-quest.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
-* [The Office](basics/the-office/README.md)
-  * [Projects](basics/the-office/projects.md)
-  * [Scenes](basics/the-office/scenes.md)
+* [The Office](basics/the-office.md)
+* [Projects](basics/projects.md)
+* [Scenes](basics/scenes.md)
 * [Core Tools](basics/core-tools/README.md)
   * [Grabber](basics/core-tools/grabber.md)
   * [Navigator](basics/core-tools/navigator.md)
@@ -21,11 +21,17 @@
   * [Sketcher](basics/core-tools/sketcher.md)
   * [Viewfinder](basics/core-tools/viewfinder.md)
   * [Tape Measure](basics/core-tools/tape-measure.md)
-* [WristPad](basics/wristpad.md)
-  * [Settings](basics/wristpad/settings.md)
-* [Asset Library](basics/asset-library.md)
-* [Using FirstStage on the Desktop](basics/using-firststage-on-the-desktop.md)
 * [Getting Around](basics/getting-around.md)
+* [Asset Library](basics/asset-library.md)
+* [Placing and Moving Things](basics/placing-and-moving-things.md)
+* [WristPad](basics/wristpad.md)
+* [Inspector](basics/inspector.md)
+* [Timeline](basics/timeline.md)
+* [Script](basics/script.md)
+* [Controls and Automation](basics/controls-and-automation.md)
+* [Undo / Redo](basics/undo-redo.md)
+* [Collaboration](basics/collaboration.md)
+* [Using FirstStage on the Desktop](basics/using-firststage-on-the-desktop.md)
 
 ## Crafting
 
@@ -37,8 +43,6 @@
 
 ## Activities
 
-* [Timeline](activities/timeline.md)
-* [Script](activities/script.md)
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
   * [Face Capture](activities/performance-capture/face-capture.md)
@@ -60,7 +64,9 @@
 
 ## Asset Management
 
+* [FirstStage Repository](asset-management/firststage-repository.md)
 * [Set up Unity](asset-management/set-up-unity.md)
 * [Source assets and import](asset-management/source-assets-and-import.md)
 * [Importing from SketchUp](asset-management/importing-from-sketchup.md)
 * [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
+* [Export to FirstStage](asset-management/export-to-firststage.md)

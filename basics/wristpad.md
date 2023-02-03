@@ -1,43 +1,47 @@
 # WristPad
 
-<figure><img src="../.gitbook/assets/WristPad.jpeg" alt=""><figcaption></figcaption></figure>
+Look at the back of your wrist and the WristPad will reveal itself (your thumb will be pointing towards you). It is a virtual tablet that provides lots of useful functions with a familiar flat-screen interface (mostly).
 
-## Home Screen Tools
+The **Home Screen** shows an array of buttons that will open the main screens.
 
-| Tool                | Description                                                  |
-| ------------------- | ------------------------------------------------------------ |
-| **Browser**         | Using the Web Browser for help and tutorials                 |
-| **Sketch Settings** | Controlling how sketching works                              |
-| **Paint**           | Selecting your paint colour and brush palette                |
-| **Materials**       | Selecting materials for texturing faces                      |
-| **Preferences**     | Setting your working preferences                             |
-| **Cameras**         | Viewing and managing camera shots                            |
-| **Lights**          | Controlling global and interactive lighting asset parameters |
-| **Stage Controls**  | Controlling stage machinery parameters                       |
-| **-**               | -                                                            |
-| **Mocap**           | Managing motion capture sources                              |
-| **Script**          | Working with the script view                                 |
-| **Timeline**        | Working with the timeline view                               |
-| **Inspector**       | Inspecting things and adjusting their properties             |
-| **Collaboration**   | Communicating with your team                                 |
-| **Undo History**    | Using Undo and Redo                                          |
+<figure><img src="../.gitbook/assets/WristPad.jpeg" alt=""><figcaption><p><mark style="background-color:red;">UPDATE</mark></p></figcaption></figure>
 
-## Timeline controls
+| Screen                               | Description                                        |
+| ------------------------------------ | -------------------------------------------------- |
+| **Browser**                          | Web Browser showing this documentation by default. |
+| **Settings**                         | Settings for sketching, snap, et al.               |
+| **Paint**                            | Paint color & brush palette                        |
+| **Materials**                        | Materials palette for the Paint Roller             |
+| **Preferences**                      | Your working preferences                           |
+| ****[**Cameras**](../cameras.md)**** | Monitor the available cameras                      |
+| **Lights**                           | Lighting controls                                  |
+| **Stage Controls**                   | Controls for stage machinery                       |
+| **Sound**                            | Sound mixing desk                                  |
+| **Mocap**                            | Assign motion capture sources                      |
+| **Script**                           | Work with the script view                          |
+| **Timeline**                         | Work with the timeline view                        |
+| **Inspector**                        | Inspect and modify the properties of things        |
+| **Collaboration**                    | Team collaboration                                 |
+| **Undo History**                     | Rewind the Undo History                            |
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+## Transport controls
+
+Below the main screen, are the Transport Controls.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><mark style="background-color:red;">UPDATE</mark></p></figcaption></figure>
 
 From left to right:
 
-* Go to Start
-* Back a keyframe
-* Forward a keyframe
-* Go to end
-* Record
+* Rewind to start of this section (or whole scene)
+* Back a beat (useful for pose animation)
+* Forward a beat (useful for pose animation)
+* Go to the start of the next section (or end of last activity)
+* Play / Pause
+* Record / Pause
 * Current timeline position
+* Clock synchronisation (used when collaborating)
 
 ## Home Screen Button
 
-<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
-
-Use the arrow to go back to the Home Screen from any control pane.
+<img src="../.gitbook/assets/Home button.png" alt="" data-size="original"> Use the arrow to go back to the Home Screen from any control panel.
 

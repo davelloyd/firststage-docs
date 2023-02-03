@@ -4,7 +4,7 @@ The Grabber is the tool for picking up things and placing them. It is the defaul
 
 Simply point the beam at something and pull the trigger to pick it up and move it. The grabber uses physics to move things which helps to place things clean on or next to other things. It will resist objects interpenetrating, but if you keep moving something through something else, it will allow it.
 
-Click the grip button to toggle grid snapping on or off. Go to the [Settings](../wristpad/settings.md) panel on the [WristPad](../wristpad.md) to change the snap settings.
+Click the grip button to toggle grid snapping on or off. Go to the [Settings](broken-reference) panel on the [WristPad](../wristpad.md) to change the snap settings.
 
 {% hint style="info" %}
 Not everything can be moved. It may be **Locked** and need unlocking from the Inspector or be part of the background stage.
