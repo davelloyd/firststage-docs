@@ -8,6 +8,7 @@
   * [Setting up Oculus](basics/getting-started/oculus-quest.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
+  * [WristPad](basics/getting-started/wristpad.md)
 * [The Office](basics/the-office.md)
 * [Projects](basics/projects.md)
 * [Scenes](basics/scenes.md)
@@ -27,8 +28,7 @@
   * [Using the Movement Handles](basics/working-with-things/using-the-movement-handles.md)
   * [Moving with the Waldo](basics/working-with-things/moving-with-the-waldo.md)
   * [Attaching Things](basics/working-with-things/attaching-things.md)
-* [WristPad](basics/wristpad.md)
-* [Inspector](basics/inspector.md)
+  * [Inspector](basics/working-with-things/inspector.md)
 * [Timeline](basics/timeline.md)
 * [Script](basics/script.md)
 * [Controls and Automation](basics/controls-and-automation.md)
@@ -43,6 +43,7 @@
 * [Painting with Materials](crafting/painting-with-materials.md)
 * [Lathe](crafting/lathe.md)
 * [Procedural Shapes](crafting/procedural-shapes.md)
+* [Groups and Assemblies](crafting/groups-and-assemblies.md)
 
 ## Activities
 
