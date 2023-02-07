@@ -10,7 +10,8 @@
   * [Controllers](basics/getting-started/controllers.md)
   * [WristPad](basics/getting-started/wristpad.md)
 * [The Office](basics/the-office.md)
-* [Projects](basics/projects.md)
+* [Projects](basics/projects/README.md)
+  * [Project Team](basics/projects/project-team.md)
 * [Scenes](basics/scenes.md)
 * [Core Tools](basics/core-tools/README.md)
   * [Grabber](basics/core-tools/grabber.md)
@@ -49,6 +50,7 @@
 
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
+  * [Motion Capture (Desktop controls)](activities/performance-capture/motion-capture-desktop-controls.md)
   * [Face Capture](activities/performance-capture/face-capture.md)
   * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
 * [Posing Characters](activities/posing-characters.md)
