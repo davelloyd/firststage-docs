@@ -16,5 +16,11 @@ You can save a group as an assembly by going to the Inspector and pressing the *
 
 In fact, assemblies don't have to come from groups: you can save a single shape (or any other thing) as an assembly.
 
+## Opening Groups
 
+While things are grouped, they can't moved or otherwise edited individually. But it is common to want to modify an assembly after it has been grouped.&#x20;
+
+You can **Ungroup** a group from the Inspector which will revert the collection to individual things.
+
+You can also **Open** a group from the Inspector which will open the collection so that individual things can be moved, deleted or otherwise modified. However the collection is preserved (along with any properties such as name) and once you have finished editing the components, you can **Close** the collection and it will again behave as a single thing.
 

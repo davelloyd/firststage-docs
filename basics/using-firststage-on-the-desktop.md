@@ -1,6 +1,15 @@
 # Using FirstStage on the Desktop
 
-FirstStage is primarily a VR application when it comes to creation. However, the desktop can be used to grab video or images of the user's view in VR, as well as hosting a few other areas of functionality suited to a desktop UI.
+Working in 3D is much easier in virtual reality than on a flat screen. However there are some functions which work just as well (or even better) on a flat screen that in virtual reality.
+
+## Desktop Panels
+
+| **Camera Sequencer** |   |
+| -------------------- | - |
+| **Timeline**         |   |
+| **Script**           |   |
+| **Facial Mocap**     |   |
+|                      |   |
 
 #### Keyboard shortcuts
 
