@@ -4,9 +4,19 @@
 
 The Timeline holds all the Activities that describe how the scene plays out: performances, animation, automation etc.
 
-The [WristPad](getting-started/wristpad.md) provides a view on the timeline as does the desktop and several other usages.
+The [WristPad](wristpad.md) provides a view on the timeline as does the desktop and several other usages.
 
 ## Activities
+
+Activities are a key concept behind FirstStage: they describe the time-like behaviour of things.&#x20;
+
+An activity has a Start Time and a Duration that determine when the activity plays. It is typically represented as a block on the timeline.&#x20;
+
+You can drag an activity along the timeline to change when it happens.
+
+For some activities, you can also stretch the duration or trim/reveal clips: point at the activity to reveal triangular handles at the end and then drag the handle.
+
+If you press the **Inspect** button, a menu will pop up with options depending on the type of activity. One option will always be **Delete**.
 
 ## Tracks
 

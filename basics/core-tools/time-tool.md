@@ -2,7 +2,7 @@
 
 The Time Tool has two functions:&#x20;
 
-* the radial menu provides transport controls to control playback as an alternative to using the point & click controls on the [WristPad](../getting-started/wristpad.md).
+* the radial menu provides transport controls to control playback as an alternative to using the point & click controls on the [WristPad](../wristpad.md).
 * use the trigger to grab things and animate them.
 
 ## Animation

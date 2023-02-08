@@ -6,7 +6,7 @@ Undo/Redo gives you the confidence to try things out and roll back if it is does
 
 ## Undo History
 
-The Undo History can be reviewed on the [WristPad](getting-started/wristpad.md): the screen shows a list of edits in order going back in time to the start of the session. Each edit will have a brief description, such as "Create Chair" or "Delete Mocap".
+The Undo History can be reviewed on the [WristPad](wristpad.md): the screen shows a list of edits in order going back in time to the start of the session. Each edit will have a brief description, such as "Create Chair" or "Delete Mocap".
 
 You can click on edit to rewind back to it or forward to it.
 
