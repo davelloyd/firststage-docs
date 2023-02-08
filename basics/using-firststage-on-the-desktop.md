@@ -22,7 +22,7 @@ The bottom bar on the desktop is a set of transport controls.
 | ****[**Timeline**](timeline.md)****                                                                | Presents the activities on the timeline in a linear view similarly to that on the WristPad, but with more space to work.                                     |
 | ****[**Script**](script.md)****                                                                    | Presents the activities on the timeline in a vertical view as a script.                                                                                      |
 | ****[**Motion Capture**](../activities/performance-capture/motion-capture-desktop-controls.md)**** | Provides desktop control over mocap. Useful for a performance director. Also, the primary interface for facial mocap.                                        |
-| ****[**Collaboration**](using-firststage-on-the-desktop.md#collaboration)****                      | A desktop view of the Collaboration screen which helps your team connect during a session.                                                                   |
+| ****[**Collaboration**](using-firststage-on-the-desktop.md#collaboration)****                      | A desktop view of the Collaboration screen which helps your team communicate during a session.                                                               |
 
 Individual panels can be resized by grabbing and dragging their borders in a familiar way. You can hide a panel by clicking on the cross top right.
 

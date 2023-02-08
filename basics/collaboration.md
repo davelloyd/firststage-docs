@@ -6,7 +6,7 @@ In FirstStage, you don't have to work alone: you can work with several team memb
 
 FirstStage stores everything in a repository on a server in the cloud. All changes to the scene are recorded there.&#x20;
 
-Every change you make is sent to the repository and it is also broadcast to any of your team members who are also in the same scene.
+Every change you make is sent to the repository and it is also broadcast to any of your team members who are also in the same scene. As you work, changes will also happen around you as others work.
 
 The repository view of the scene is definitive: all team members should see the same scene.&#x20;
 
@@ -27,4 +27,8 @@ We are working on a new improved networking solution which will not suffer from 
 {% endhint %}
 
 ### Ownership
+
+If you grab something, everyone else will see it highlighted with your marker color and will not be able to grab it themselves. Similarly you may see things highlighted with someone else's color and you will not be able to modify it while they are working with it.
+
+### Synchronised Time
 
