@@ -6,7 +6,7 @@ The **Home Screen** shows an array of buttons that will open the main screens.
 
 These screens and how to use them are described later in context.&#x20;
 
-<figure><img src="../.gitbook/assets/WristPad.jpeg" alt=""><figcaption><p><mark style="background-color:red;">UPDATE</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DUMMY 2023-02-08 14-03-42.jpg" alt=""><figcaption></figcaption></figure>
 
 | Screen                                                    | Description                                        |
 | --------------------------------------------------------- | -------------------------------------------------- |
@@ -21,29 +21,19 @@ These screens and how to use them are described later in context.&#x20;
 | **Sound**                                                 | Sound mixing desk                                  |
 | **Mocap**                                                 | Assign motion capture sources                      |
 | ****[**Script**](script.md)****                           | Work with the script view                          |
-| ****[**Timeline**](timeline.md)****                       | Work with the timeline view                        |
+| ****[**Timeline**](timeline/)****                         | Work with the timeline view                        |
 | ****[**Inspector**](working-with-things/inspector.md)**** | Inspect and modify the properties of things        |
 | **Collaboration**                                         | Team collaboration                                 |
 | ****[**Undo History**](undo-redo.md)****                  | Rewind the Undo History                            |
 
-## Transport controls
+Below the main screen, are the [Transport Controls](timeline/transport-controls.md).
 
-Below the main screen, are the Transport Controls.
+<figure><img src="../.gitbook/assets/transport controls.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><mark style="background-color:red;">UPDATE</mark></p></figcaption></figure>
+Use the back button to go back to the Home Screen:
 
-From left to right:
+<img src="../.gitbook/assets/Home button.png" alt="" data-size="original">&#x20;
 
-* Rewind to start of this section (or whole scene)
-* Back a beat (useful for pose animation)
-* Forward a beat (useful for pose animation)
-* Go to the start of the next section (or end of last activity)
-* Play / Pause
-* Record / Pause
-* Current timeline position
-* Clock synchronisation (used when collaborating)
+## Detaching a Screen
 
-## Home Screen Button
-
-<img src="../.gitbook/assets/Home button.png" alt="" data-size="original"> Use the arrow to go back to the Home Screen from any control panel.
-
+You can grab one of the handles at the edge of the WristPad to detach a screen and drag it somewhere in your work area. To get rid of the screen, use the Destroyer.

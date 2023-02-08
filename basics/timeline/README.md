@@ -4,7 +4,7 @@
 
 The Timeline holds all the Activities that describe how the scene plays out: performances, animation, automation etc.
 
-The [WristPad](wristpad.md) provides a view on the timeline as does the desktop and several other usages.
+The [WristPad](../wristpad.md) provides a view on the timeline as does the desktop and several other places.
 
 ## Activities
 
@@ -16,7 +16,7 @@ You can drag an activity along the timeline to change when it happens.
 
 For some activities, you can also stretch the duration or trim/reveal clips: point at the activity to reveal triangular handles at the end and then drag the handle.
 
-If you press the **Inspect** button, a menu will pop up with options depending on the type of activity. One option will always be **Delete**.
+If you press the **Inspect** button, a menu will pop up with options depending on the type of activity. One option will always be **Delete** and you can usually **Duplicate**.
 
 ## Tracks
 
@@ -24,7 +24,7 @@ Every thing that has an activity will have a track on the timeline.
 
 The track header (left hand column) shows the name of the thing. If you point at it, a menu will pop up with the following options:
 
-* open the [Inspector](working-with-things/inspector.md) on it.
+* open the [Inspector](../working-with-things/inspector.md) on it.
 * teleport right next to it.
 * enable/disable all activities for it.
 

@@ -30,5 +30,16 @@ We are working on a new improved networking solution which will not suffer from 
 
 If you grab something, everyone else will see it highlighted with your marker color and will not be able to grab it themselves. Similarly you may see things highlighted with someone else's color and you will not be able to modify it while they are working with it.
 
-### Synchronised Time
+### Synchronise Clocks
 
+By default when working on a scene, scrubbing the timeline or pressing play/record will only change time in your view of the scene: other team members will not be affected. This is normally what you want as it can be very confusing otherwise.
+
+However it can be useful for team members to syncronise their clocks: indeed it can be essential when recording performances.
+
+To do this go to the Transport Controls and click on the **Synchronise Clock** button (the stopwatch icon). This will toggle whether your notion of time is synchronised with other team members or not. The icon shows in three states:
+
+| Icon color | State       | Description                                                                                                                           |
+| ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| White      | Independent | Changing your time will not affect anyone else nor will anyone else change time for you.                                              |
+| Red        | Master      | You have control over time. Changing time (scrub or play/record) will change it for those following you.                              |
+| Yellow     | Follow      | You cannot change time yourself but are following whoever has the master control of time. As they change time, your time will follow. |
