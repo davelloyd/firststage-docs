@@ -49,14 +49,16 @@
 
 ## Activities
 
+* [Posing Characters](activities/posing-characters.md)
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
+  * [Performing](activities/performance-capture/performing.md)
   * [Motion Capture (Desktop controls)](activities/performance-capture/motion-capture-desktop-controls.md)
   * [Face Capture](activities/performance-capture/face-capture.md)
   * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
-* [Posing Characters](activities/posing-characters.md)
 * [Rigid Animation](activities/rigid-animation.md)
 * [Automation](activities/automation.md)
+* [Audio Clips](activities/audio-clips.md)
 
 ## Camerawork
 
