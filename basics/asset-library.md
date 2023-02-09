@@ -10,7 +10,7 @@ You can summon the Asset Library at any time by pressing both Menu buttons at on
 
 Here you can select assets to put on stage from all categories in your Asset Repository, including characters, props, environments, vehicles, interactive assets, manipulatable shapes and VFX.
 
-<figure><img src="../.gitbook/assets/Asset-Library-1024x576.jpeg" alt=""><figcaption><p><mark style="background-color:red;">UPDATE</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset Library.png" alt=""><figcaption></figcaption></figure>
 
 Around you is a carousel showing some assets. Each asset has a card with its name and source path (creator/category) and commit date.
 
