@@ -11,4 +11,4 @@ From left to right:
 * Play / Pause
 * Record / Pause
 * Current timeline position
-* [Clock synchronisation](../collaboration.md#synchronise-clocks) (used when collaborating)
+* [Clock synchronisation](../collaboration/#synchronise-clocks) (used when collaborating)

@@ -2,6 +2,8 @@
 
 FirstStage includes a simple modelling tool for sketching scenery and set dressing. It is inspired by SketchUp.
 
+{% embed url="https://youtu.be/Xjn3VGYap_M" %}
+
 ### Creating a Shape <a href="#_i7apljf5wl9d" id="_i7apljf5wl9d"></a>
 
 To create a shape from scratch, first select the Sketch tool from the Tool WheelMenu.

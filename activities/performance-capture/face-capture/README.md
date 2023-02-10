@@ -16,7 +16,7 @@ Facial animation will only work with puppets with suitable blendshapes on the fa
 It is usually helpful to set up a camera in close up on the character's face. Then show the Camera Sequencer as well and select that camera so you can monitor your character's face.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Assign a Character <a href="#_qguoinbue5tm" id="_qguoinbue5tm"></a>
 

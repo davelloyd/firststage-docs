@@ -4,7 +4,7 @@
 
 The Timeline shows all the Activities that describe how the scene plays out: performances, animation, automation etc.
 
-The [WristPad](../wristpad.md) provides a view on the timeline as does the desktop and several other places.
+The [WristPad](../wristpad/) provides a view on the timeline as does the desktop and several other places.
 
 The activities are organised into tracks by the thing the activities act upon.
 

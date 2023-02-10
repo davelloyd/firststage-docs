@@ -1,6 +1,6 @@
 # Collaboration
 
-In FirstStage, you don't have to work alone: you can work with several team members at once in the same scene. Anyone who is a member of your [project's team](projects/project-team.md) can join you.
+In FirstStage, you don't have to work alone: you can work with several team members at once in the same scene. Anyone who is a member of your [project's team](../projects/project-team.md) can join you.
 
 ## Cloud Collaboration
 

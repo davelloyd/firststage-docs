@@ -4,7 +4,7 @@ Familiarise yourself with the controllers before you get started and make sure y
 
 ## Vive
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (6).png>)
 
 ## Valve Index
 

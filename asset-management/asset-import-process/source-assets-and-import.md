@@ -18,7 +18,7 @@ Log in to the Unity Asset Store website.
 
 As a free item, instead of ‘Add to Cart’ and having to go through the purchase process, it already displays the ‘Add to My Assets’ button. Click this and it is yours.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Import into the Unity Editor
 
