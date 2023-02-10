@@ -46,5 +46,5 @@ When working close, it is also useful to proximity grab the pivot without steppi
 Posing a character will create a pose keyframe in an Animate Poses activity. Create an animation by changing time and posing the character again.
 
 {% hint style="info" %}
-Use the _Advance a beat_ button on the [Transport Controls](../basics/working-with-time/transport-controls.md) or the [Time Tool](../basics/core-tools/time-tool.md) to move time forward a constant amount (1/2 sec) each time. This can make it much easier to make animations that flow well.
+Use the _Advance a beat_ button on the [Transport Controls](../basics/timeline/transport-controls.md) or the [Time Tool](../basics/core-tools/time-tool.md) to move time forward a constant amount (1/2 sec) each time. This can make it much easier to make animations that flow well.
 {% endhint %}

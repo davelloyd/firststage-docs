@@ -32,7 +32,7 @@
   * [Inspector](basics/working-with-things/inspector.md)
 * [Working with Time](basics/working-with-time/README.md)
   * [Timeline](basics/working-with-time/timeline.md)
-  * [Transport controls](basics/working-with-time/transport-controls.md)
+  * [Transport controls](basics/timeline/transport-controls.md)
   * [Script](basics/working-with-time/script.md)
   * [Motion Paths](basics/working-with-time/motion-paths.md)
 * [Controls and Automation](basics/controls-and-automation.md)

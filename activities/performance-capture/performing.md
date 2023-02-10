@@ -72,7 +72,7 @@ All activities created during performance capture are linked to the base mocap a
 
 Such activities include:
 
-* Dialog
+* Voice clip
 * Hold prop
 * Use prop
 

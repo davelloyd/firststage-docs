@@ -18,7 +18,7 @@ Next you will see the **Scenes** screen. This will be empty to start with so cli
 
 For your first scene, choose the **Empty Stage**.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Run through the Tutorial
 

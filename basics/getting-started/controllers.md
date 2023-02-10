@@ -4,11 +4,11 @@ Familiarise yourself with the controllers before you get started and make sure y
 
 ## Vive
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (6).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (6).png>)
 
 ## Valve Index
 
-![](<../../.gitbook/assets/image (11) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (2).png>)
 
 ## Basic Controls
 

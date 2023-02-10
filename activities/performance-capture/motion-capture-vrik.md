@@ -12,7 +12,7 @@ If you need to capture more subtle performances, FirstStage also supports the [R
 
 To start, point at a puppet with the Navigator (the default left hand tool) when you should see the target teleport destination change to show Take Control over the character’s head. Click & hold the trigger (you’ll see a confirmation timer) and, blink, you’ll be in the Mocap Setup space, a little bubble separate from the rest of the stage.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (14).png>)
 
 ## Mocap Setup <a href="#_4bmbd0x5pa5z" id="_4bmbd0x5pa5z"></a>
 
