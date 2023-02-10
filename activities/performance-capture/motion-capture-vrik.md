@@ -6,15 +6,19 @@ You can also use additional Vive trackers attached to your feet (or ankles) and 
 
 Note that using trackers and VRIK has some significant limitations: it does not know where your elbows and knees are so has to make a guess. The result usually looks reasonable but may not be what you actually performed. For example, flapping your elbows while keeping hands stationary will not be captured correctly. Human shoulders are actually quite complicated but most puppets do not rig them well, and even if they did, we have no trackers on them so must infer the actual movement.
 
-If you need to capture more subtle performances, FirstStage also supports the Rokoko SmartSuit which uses lots of inertial trackers placed over the body suit to capture many more components of motion. This has different limitations as it can be prone to long chain errors such as clapping your hands where they may not meet correctly in the playback.
+If you need to capture more subtle performances, FirstStage also supports the [Rokoko SmartSuit](https://www.rokoko.com/products/smartsuit-pro) which uses lots of inertial trackers placed over the body suit to capture many more components of motion. This has different limitations as it can be prone to long chain errors such as clapping your hands where they may not meet correctly in the playback.
 
 ### Taking Control of a Puppet <a href="#_bu2qoyq7ae6w" id="_bu2qoyq7ae6w"></a>
 
 To start, point at a puppet with the Navigator (the default left hand tool) when you should see the target teleport destination change to show Take Control over the character’s head. Click & hold the trigger (you’ll see a confirmation timer) and, blink, you’ll be in the Mocap Setup space, a little bubble separate from the rest of the stage.
 
-### Mocap Setup <a href="#_4bmbd0x5pa5z" id="_4bmbd0x5pa5z"></a>
+![](../../.gitbook/assets/image.png)
+
+## Mocap Setup <a href="#_4bmbd0x5pa5z" id="_4bmbd0x5pa5z"></a>
 
 Once in the Mocap Setup space, you’ll see a puppet opposite you which should mirror your actions as you move. If you look down you will also see that you have the puppet as your body.
+
+<figure><img src="../../.gitbook/assets/Screenshot-2023-01-24-152013-2-1024x540.png" alt=""><figcaption></figcaption></figure>
 
 In front of you is a panel with a choice of motion capture scenarios: one of these is often a good choice.
 
@@ -110,6 +114,6 @@ It can be useful to have physical props to interact with: for example a performe
 
 If you have such physical props, click on the **Mark Physical Props** button to activate the scribble tool. Use this to mark the outlines of physical props: this will now remain fix with respect to your work area.
 
-Cluck on **Clear Prop Scribble** to remove the markup.
+Click on **Clear Prop Scribble** to remove the markup.
 
 ## &#x20;<a href="#_hg4474de3hk2" id="_hg4474de3hk2"></a>

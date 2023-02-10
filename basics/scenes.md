@@ -10,7 +10,7 @@ Click the green tick to complete the creation of the scene. (Or click the red cr
 
 ### Selecting a Scene <a href="#_9t8ddmg0hmvu" id="_9t8ddmg0hmvu"></a>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on a Scene in the list to select it. From the right hand panel, you can:
 

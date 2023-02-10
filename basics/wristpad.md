@@ -20,13 +20,13 @@ These screens and how to use them are described later in context.&#x20;
 | **Stage Controls**                                        | Controls for stage machinery                       |
 | **Sound**                                                 | Sound mixing desk                                  |
 | **Mocap**                                                 | Assign motion capture sources                      |
-| ****[**Script**](script.md)****                           | Work with the script view                          |
-| ****[**Timeline**](timeline/)****                         | Work with the timeline view                        |
+| ****[**Script**](working-with-time/script.md)****         | Work with the script view                          |
+| ****[**Timeline**](working-with-time/timeline.md)****     | Work with the timeline view                        |
 | ****[**Inspector**](working-with-things/inspector.md)**** | Inspect and modify the properties of things        |
 | **Collaboration**                                         | Team collaboration                                 |
 | ****[**Undo History**](undo-redo.md)****                  | Rewind the Undo History                            |
 
-Below the main screen, are the [Transport Controls](timeline/transport-controls.md).
+Below the main screen, are the [Transport Controls](working-with-time/transport-controls.md).
 
 <figure><img src="../.gitbook/assets/transport controls.png" alt=""><figcaption></figcaption></figure>
 

@@ -14,13 +14,13 @@ To create a new Project, press the Create button. A dialog panel will pop up inv
 
 Click the green tick to complete the creation of the Project. (And click the red cross if you want to bail on creating a project.)
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Selecting a Project <a href="#_rfawbxbtx1jf" id="_rfawbxbtx1jf"></a>
 
 To select a project, simply click on the Project name and the Project will open showing a list of the Scenes in the Project in the left hand column. The currently selected Scene is in the right hand column.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -9,22 +9,25 @@ This guide will illustrate how to
 3. Add tags and a description
 4. Save to your local FirstStage repository
 
-### 1. Select the target asset repository
+{% hint style="info" %}
+Use the LOCAL project to test out assets before sharing them with others, as it is faster when the assets do not need to be sent to the server.
+{% endhint %}
+
+## Select the target asset repository
 
 1. Open the FirstStage window (from the menu bar > Moviestorm > FirstStage Repository)
-2. Select the desired Project (from the top multiple select button aligned with ‘Project:’)\
-   NB - We recommend the LOCAL project to test out assets before sharing them with others, as it is faster when the assets do not need to be sent to the server
+2. Select the desired Project (from the top multiple select button aligned with ‘Project:’)
 3. Close OR Dock the FirstStage window\
    We would recommend docking the FirstStage window into the Unity Editor of ease of use going forward. Drag the FirstStage window by the tab over the tabs of the Console window
 
-### 2a. Import the asset prefab files
+## Import asset prefabs
 
 To import single assets, we select and import the asset prefab file.
 
 1. Select the prefabs just created in the Project window and click the Import button in the FirstStage window.\
    The assets will now show under Pending in the FirstStage view.
 
-### 2b Import the scene file
+## Import a scene
 
 To import whole scenes, we select and import the scene file.
 
@@ -34,7 +37,7 @@ To import whole scenes, we select and import the scene file.
    _NB - Jump to it from the scene Hierarchy window by right-clicking on the scene name and clicking ‘Select Scene Asset’ from the drop down._\
    The scene will now show under Pending in the FirstStage view.
 
-### 3. Add tags and a description
+## Add tags and a description
 
 Tags will help locate assets when using the Asset Browser in FirstStage, by allowing filtering by tags.
 
@@ -47,13 +50,11 @@ Tags will help locate assets when using the Asset Browser in FirstStage, by allo
    Add a description in the Description field. This may help with future word-based searches.
 3. Click Save
 
-### 4. Save to your local FirstStage repository
+## Save to FirstStage repository
 
-When you are ready
+When you are ready, click the **Commit** button in the FirstStage window.\
+This will build the asset bundles and transmit them to the repository. As a result, Unity may now freeze for a while.
 
 <figure><img src="https://firststage.moviestorm.co.uk/wp-content/uploads/2020/10/Unity-Editor-Commit-to-repository.jpg" alt=""><figcaption><p>4.1 - Commit to the FirstStage repository</p></figcaption></figure>
-
-1. Click the Commit button in the FirstStage window.\
-   This will build the asset bundles and transmit them to the repository. As a result, Unity may now freeze for a while.
 
 Check the Console afterwards in case any errors were reported as this will avoid surprises later.

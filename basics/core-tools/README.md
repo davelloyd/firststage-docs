@@ -6,7 +6,7 @@ The primary tool on your main hand is the Grabber, and the Navigator on your off
 
 Press and hold the **Menu** button (**A** button on Index & Oculus) to summon the Tool Wheel Menu which lets you change tools. Twist your hand to select the tool you want and release.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For quick access, you can click the Menu Button to toggle between the current tool and the primary tool (Grabber on your main hand, Navigator on your off hand).

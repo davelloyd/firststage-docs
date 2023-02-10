@@ -1,6 +1,6 @@
 # Script
 
-<figure><img src="../.gitbook/assets/Warehouse Demo 8 2023-02-09 13-12-17.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Warehouse Demo 8 2023-02-09 13-12-17.jpg" alt=""><figcaption></figcaption></figure>
 
 The Script provides an alternative view on the Timeline: it arranges activities vertically in order of when they start.&#x20;
 
