@@ -14,7 +14,7 @@ Not everything can be moved. It may be **Locked** and need unlocking from the In
 
 * Undo
 * Redo
-* Drop to ground (keep holding the trigger until the thing has landed and sstopped moving)
+* Drop to ground (keep holding the trigger until the thing has landed and stopped moving)
 * Pull to hand (useful if a thing is far away)
 
 ## Proximity Grabber

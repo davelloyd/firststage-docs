@@ -32,6 +32,7 @@
   * [Moving with the Waldo](basics/working-with-things/moving-with-the-waldo.md)
   * [Attaching Things](basics/working-with-things/attaching-things.md)
   * [Inspector](basics/working-with-things/inspector.md)
+  * [Groups and Assemblies](basics/working-with-things/groups-and-assemblies.md)
 * [Working with Time](basics/working-with-time/README.md)
   * [Timeline](basics/working-with-time/timeline.md)
   * [Transport controls](basics/timeline/transport-controls.md)
@@ -52,7 +53,6 @@
 * [Painting with Materials](crafting/painting-with-materials.md)
 * [Lathe](crafting/lathe.md)
 * [Procedural Shapes](crafting/procedural-shapes.md)
-* [Groups and Assemblies](crafting/groups-and-assemblies.md)
 
 ## Activities
 
@@ -96,7 +96,6 @@
   * [Fix common issues](asset-management/asset-import-process/fix-common-issues.md)
   * [Share in FirstStage (Cloud)](asset-management/asset-import-process/share-in-firststage-cloud.md)
 * [Importing from SketchUp](asset-management/importing-from-sketchup.md)
-* [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm.md)
 * [Creating a Character for Firstage using Character Creator](asset-management/creating-a-character-for-firstage-using-character-creator.md)
+* [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm.md)
 * [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
-* [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm-1.md)

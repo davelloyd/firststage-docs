@@ -68,6 +68,8 @@ You can improve this by finding changing the render mode for the hair materials:
 1. Find the hair materials - they are usually in the Materials folder inside the FBX file you imported for the character.
 2. Select each hair material (typically named "Hair\_Transparency\_x\_Pbr") and, in the Inspector panel, change the Rending Mode from Fade to Cutout.
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 #### Single Sided Clothing
 
 Another common problem is clothing where you can often see through the 'inside' of a costume.&#x20;

@@ -13,4 +13,4 @@ Comfort settings to reduce any VR-induced motion sickness whilst moving around t
 
 Your preferences are saved in the cloud and will be used on whichever device you are logged in on.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
