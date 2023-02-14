@@ -6,6 +6,7 @@
 
 * [Getting Started](basics/getting-started/README.md)
   * [Setting up Oculus](basics/getting-started/oculus-quest.md)
+  * [Setting up Voice Recognition](basics/getting-started/setting-up-voice-recognition.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
 * [The Office](basics/the-office.md)
@@ -51,6 +52,7 @@
   * [Manipulating Edges & Vertices on 3d Objects](crafting/sketching/manipulating-edges-and-vertices-on-3d-objects.md)
   * [Cutting faces](crafting/sketching/cutting-faces.md)
 * [Painting with Materials](crafting/painting-with-materials.md)
+* [Painting with the Airbrush](crafting/painting-with-the-airbrush.md)
 * [Lathe](crafting/lathe.md)
 * [Procedural Shapes](crafting/procedural-shapes.md)
 
