@@ -21,7 +21,7 @@ If you pick something up, your team members will see that thing floating about a
 If you perform inside a puppet, your team members will see your performance in real-time.
 
 {% hint style="warning" %}
-Peer to peer connections can be unreliable depending on you and your other team members' firewalls and internet connections. (We use a technique known as [NAT punchthrough](https://en.wikipedia.org/wiki/Hole\_punching\_\(networking\))).
+Peer to peer connections can be unreliable depending on your and your other team members' firewalls and internet connections. (We use a technique known as [NAT punchthrough](https://en.wikipedia.org/wiki/Hole\_punching\_\(networking\))).
 
 We are working on a new improved networking solution which will not suffer from this problem.
 {% endhint %}

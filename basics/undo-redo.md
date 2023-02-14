@@ -10,5 +10,7 @@ The Undo History can be reviewed on the [WristPad](wristpad/): the screen shows 
 
 You can click on edit to rewind back to it or forward to it.
 
+<figure><img src="../.gitbook/assets/DUMMY 2023-02-14 13-02-32.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
