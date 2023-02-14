@@ -5,7 +5,7 @@ Most things in FirstStage are constructed from triangle meshes. Each mesh can ha
 {% hint style="info" %}
 Some meshes respond to materials better than others. Much depends on the quality of the [uv mapping](https://en.wikipedia.org/wiki/UV\_mapping) of the mesh when the original model was created.
 
-Material painting works particularly well on [sketch](../sketching.md) things.
+Material painting works particularly well on [sketches](../sketching.md).
 {% endhint %}
 
 The **Paint Roller** tool lets you replace a material effectively painting in a flood fill style. Unlike the core tools, you won't find the Paint Roller on the [Tools Wheel Menu](../basics/core-tools/).&#x20;
