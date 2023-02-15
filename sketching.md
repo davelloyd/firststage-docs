@@ -18,15 +18,6 @@ When the path is closed, the shape will be created as an extrusion of the polygo
 
 **Note:** the path cannot have any crossing lines. When the path is invalid, it will show in red.
 
-### Using Primitives <a href="#_za0mqwsox6mw" id="_za0mqwsox6mw"></a>
-
-You can also start by grabbing a primitive shape from the Asset Store:
-
-* 1m cube
-* 1m x 1m x 10cm board
-* 1m x 10cm x 10cm post
-* 1m x 10cm x 1cm plank
-
 ### Editing a Shape <a href="#_b38jq9mse3y9" id="_b38jq9mse3y9"></a>
 
 When you first create a shape it will be immediately editable: you can tell a shape is editable as it will have a blue wireframe showing along with length measurements for the edges and angle measurements for the corners.
