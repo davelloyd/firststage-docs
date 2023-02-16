@@ -3,7 +3,7 @@
 You can do detailed painting with the **Airbrush** on [sketches](../sketching.md).
 
 {% hint style="warning" %}
-EXPERIMENTAL! The Airbrush only works on sketches on faces that have not been painted with a material. It does not yet work with imported models. Paintings with too many brush strokes may cause FirstStage to slow down. We hope to improve this in a later release.
+EXPERIMENTAL! The Airbrush only works on sketches on faces that have not been painted with a material. It does not yet work with imported models. Paintings with too many brush strokes may cause FirstStage to slow down. We intend to improve this in a later release.
 {% endhint %}
 
 Go to the **Paint** palette on the [WristPad](../basics/wristpad/) and click on the ink pad: you will then have the Airbrush in your hand loaded with that color ink.

@@ -8,9 +8,17 @@ Lighting uses Unity's old [Built-In Render Pipeline](https://docs.unity3d.com/Ma
 FirstStage does not yet support realtime global illumination or other techniques to simulate light bouncing between surfaces.
 {% endhint %}
 
-Once you've placed a light, you can adjust it from the **Lights** panel on your [WristPad](../wristpad/): there is a slider strip for each light that lets you control the brightness of the light. Each strip also has a button to enable automation recording which allows the light to change during the scene.
+Once you've placed a light, you can adjust it from the **Lights** panel on your [WristPad](../wristpad/).
 
-<figure><img src="../../.gitbook/assets/Controls Demo 2023-02-15 01-14-55.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stage Test2 2023-02-16 16-48-06.jpg" alt=""><figcaption></figcaption></figure>
+
+For each light in the scene, there is a control strip. The first light on the desk is usually the **Sun Light** which is a simple directional light that illuminates the whole scene.&#x20;
+
+Each control strip has a slider to control the intensity of the light. These have a natural range of 0...1 but can be overdriven if desired. But be careful as these are not HDR lights and may well clip badly.
+
+Each strip also has a button to enable automation recording which allows the light to change during the scene.
+
+## Lighting Details
 
 If you click on the header of the light strip, you can open out additional controls:
 
@@ -19,8 +27,14 @@ If you click on the header of the light strip, you can open out additional contr
 * Range
 * Set whether the light casts shadows
 
-<figure><img src="../../.gitbook/assets/Controls Demo 2023-02-15 01-15-30.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stage Test2 2023-02-16 16-45-10.jpg" alt=""><figcaption></figcaption></figure>
 
-You can also choose from a wide range of gobos to put on the light: these can be very useful for simulating many different types of lighting effect.
+You can also choose from a wide range of gobos (aka cookies) to put on the light: these can be very useful for simulating many different types of lighting effect.
 
-<figure><img src="../../.gitbook/assets/Controls Demo 2023-02-15 01-15-39.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stage Test2 2023-02-16 16-45-55.jpg" alt=""><figcaption></figcaption></figure>
+
+The left hand column lists a set of tags for the gobos. Click on a tag to see gobos from that category.
+
+At the top of the tags is a **Clear** button which will remove any gobo from the light.
+
+On the right you can see the gobos: click on one to apply it to the light.

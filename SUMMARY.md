@@ -44,7 +44,7 @@
 * [Controls and Automation](basics/controls-and-automation/README.md)
   * [Lights](basics/controls-and-automation/lights.md)
   * [Audio](basics/controls-and-automation/audio.md)
-  * [Stage Controls](basics/controls-and-automation/stage-controls.md)
+  * [Stage \`](basics/controls-and-automation/stage.md)
 * [Undo / Redo](basics/undo-redo.md)
 * [Collaboration](basics/collaboration/README.md)
   * [Video Streaming from VR](basics/collaboration/video-streaming-from-vr.md)

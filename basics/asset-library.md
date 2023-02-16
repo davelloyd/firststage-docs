@@ -10,7 +10,7 @@ You can summon the Asset Library at any time by pressing both Menu buttons at on
 
 Here you can select assets to put on stage from all categories in your Asset Repository, including characters, props, environments, vehicles, interactive assets, manipulatable shapes and VFX.
 
-<figure><img src="../.gitbook/assets/Asset Library.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Asset Library 2.png" alt=""><figcaption></figcaption></figure>
 
 Around you is a carousel showing some assets. Each asset has a card with its name and source path (creator/category) and commit date.
 
@@ -46,10 +46,14 @@ In front of you is a board of topline categories and their associated tags, and 
 
 On the left hand side there are buttons that let you limit the scope of which assets to choose from:
 
-| **Public**  | These assets are provided for all users of FirstStage         |
-| ----------- | ------------------------------------------------------------- |
-| **Project** | These assets have been imported into this project.            |
-| **Local**   | These assets have only been imported locally on this machine. |
+| **All**     | All assets available for use in this scene: public, project and local.                                            |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Public**  | These assets are provided for all users of FirstStage                                                             |
+| **Project** | These assets have been imported into this project.                                                                |
+| **Local**   | These assets have only been imported locally on this machine.                                                     |
+| **Scene**   | Only those assets used in the scene. Can be useful for finding assets you've already used and want to use again.  |
+
+
 
 {% content-ref url="../asset-management/firststage-repository.md" %}
 [firststage-repository.md](../asset-management/firststage-repository.md)
