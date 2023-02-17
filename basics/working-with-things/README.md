@@ -12,13 +12,15 @@ We can also [multiply select](../core-tools/selector.md), [copy](../core-tools/d
 
 If you point at a thing and press and hold the Inspect button (Vive Menu button or Index/Oculus B button), the Inspect Wheel Menu will show. This has the following actions (depending on the properties of the thing):
 
-| Hide Handles     | Hide any handles showing.                                |
-| ---------------- | -------------------------------------------------------- |
-| Movement Handles | Show the movement handles.                               |
-| Waldo            | Show the Waldo: remote controls for moving a thing.      |
-| Scale Handles    | Show the scale handles for changing the size of a thing. |
-| Start Motion     | Create a keyframe to start a motion path animation.      |
-| Reset Pose       | Reset a character's pose to default.                     |
-| Steer            | Create a steer path for a character to follow.           |
-| Edit Shape       | Edit a sketch or procedural shape.                       |
+<figure><img src="../../.gitbook/assets/DUMMY 2023-02-14 21-11-55 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+| Hide Handles     | Hide any handles showing.                             |
+| ---------------- | ----------------------------------------------------- |
+| Movement Handles | Show the movement handles.                            |
+| Waldo            | Show the Waldo: remote controls for moving a thing.   |
+| Attach           | Show the handle for attaching this to something else. |
+| Start Motion     | Create a keyframe to start a motion path animation.   |
+| Reset Pose       | Reset a character's pose to default.                  |
+| Steer            | Create a steer path for a character to follow.        |
+| Edit Shape       | Edit a sketch or procedural shape.                    |
 

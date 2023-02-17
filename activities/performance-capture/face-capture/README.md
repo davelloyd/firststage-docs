@@ -38,7 +38,7 @@ You can either record the performer’s voice at the same time or simply “mout
 
 ### Recording the Performance <a href="#_eyj24o2tcrnb" id="_eyj24o2tcrnb"></a>
 
-Simply press Record on the [Transport Controls](../../../basics/timeline/transport-controls.md) to record the performance and then press stop when done.
+Simply press Record on the [Transport Controls](broken-reference) to record the performance and then press stop when done.
 
 Afterwards, there will be a Face Mocap activity on the timeline for that character. You can move it about freely and you can also trim it to remove any start up or cool down.
 

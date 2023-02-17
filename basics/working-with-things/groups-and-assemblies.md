@@ -26,3 +26,5 @@ You can also **Open** a group from the Inspector which will open the collection 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>An opened group showing the Inspector view and the individual components labelled.</p></figcaption></figure>
 
+You can temporarily hide individual components which can make it easier to manipulating components otherwise obscured.
+

@@ -26,7 +26,7 @@ These screens and how to use them are described later in context.&#x20;
 | **Collaboration**                                            | Team collaboration                                 |
 | ****[**Undo History**](../undo-redo.md)****                  | Rewind the Undo History                            |
 
-Below the main screen, are the [Transport Controls](../timeline/transport-controls.md).
+Below the main screen, are the [Transport Controls](broken-reference).
 
 <figure><img src="../../.gitbook/assets/transport controls.png" alt=""><figcaption></figcaption></figure>
 

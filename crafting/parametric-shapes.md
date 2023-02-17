@@ -1,6 +1,6 @@
 # Parametric Shapes
 
-In the [Asset Library](../basics/asset-library.md), you will find a variety of parametric shapes under the **Shape** tag. You can enable additional handles by choosing the **Edit Shape** option on the [Inspect Menu](../basics/working-with-things/inspect-menu.md).
+In the [Asset Library](../basics/asset-library.md), you will find a variety of parametric shapes under the **Shape** tag. You can enable additional handles by choosing the **Edit Shape** option on the [Inspect Menu](broken-reference).
 
 ## Cylinder Section
 

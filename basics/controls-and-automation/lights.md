@@ -18,6 +18,10 @@ Each control strip has a slider to control the intensity of the light. These hav
 
 Each strip also has a button to enable automation recording which allows the light to change during the scene.
 
+{% hint style="info" %}
+As well as automating the control sliders, you can also animate the position and orientation of the light. Using the [Animator](../core-tools/time-tool.md) to animate in realtime can be particularly effective as you can keep a spotlight trained on a character, say, as they move around the scene.
+{% endhint %}
+
 ## Lighting Details
 
 If you click on the header of the light strip, you can open out additional controls:
