@@ -8,6 +8,8 @@ You can scrub time randomly and the scene will _mostly_ track what you would see
 
 ## Transport Controls
 
+Because time is so important in FirstStage, the [WristPad](../wristpad/) has a set of transport controls at the bottom, which are accessible whichever screen you are looking at. The [Desktop](../using-firststage-on-the-desktop.md) view also has the transport controls at the bottom of the screen.&#x20;
+
 <figure><img src="../../.gitbook/assets/transport controls.png" alt=""><figcaption></figcaption></figure>
 
 From left to right:
