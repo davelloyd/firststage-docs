@@ -67,14 +67,11 @@
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
   * [Performing](activities/performance-capture/performing.md)
-  * [Motion Capture (Desktop controls)](activities/performance-capture/motion-capture-desktop-controls.md)
   * [Face Capture](activities/performance-capture/face-capture/README.md)
     * [Setting up Facial Capture](activities/performance-capture/face-capture/setting-up-facial-capture.md)
   * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
 * [Layering Animations](activities/layering-animations.md)
 * [Rigid Animation](activities/rigid-animation.md)
-* [Automation](activities/automation.md)
-* [Audio Clips](activities/audio-clips.md)
 
 ## Camerawork
 
@@ -82,10 +79,12 @@
 * [Through The Lens](camerawork/through-the-lens.md)
 * [Camera Sequencer](camerawork/camera-sequencer.md)
 
-## Ineractive Scenes
+## Interactive Scenes
 
-* [Branching Scripts](ineractive-scenes/branching-scripts-and-triggers.md)
-* [Triggers](ineractive-scenes/triggers.md)
+* [Player](interactive-scenes/player.md)
+* [Branching Scripts](interactive-scenes/branching-scripts.md)
+* [Triggers](interactive-scenes/triggers.md)
+* [Multiple Choice Dialog](interactive-scenes/multiple-choice-dialog.md)
 
 ## Asset Management
 

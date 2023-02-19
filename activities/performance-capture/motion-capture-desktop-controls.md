@@ -1,2 +1,0 @@
-# Motion Capture (Desktop controls)
-
