@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the FirstStage Help Centre](README.md)
+* [Welcome](README.md)
 
 ## Basics
 
