@@ -30,7 +30,7 @@
 * [Asset Library](basics/asset-library.md)
 * [Working with Things](basics/working-with-things/README.md)
   * [Manipulating 3d Objects](basics/working-with-things/manipulating-3d-objects.md)
-  * [Using the Movement Handles](basics/working-with-things/using-the-movement-handles.md)
+  * [Using Movement Handles](basics/working-with-things/using-movement-handles.md)
   * [Moving with the Waldo](basics/working-with-things/moving-with-the-waldo.md)
   * [Attaching Things](basics/working-with-things/attaching-things.md)
   * [Inspector](basics/working-with-things/inspector.md)

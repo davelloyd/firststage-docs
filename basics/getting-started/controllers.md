@@ -2,6 +2,10 @@
 
 Familiarise yourself with the controllers before you get started and make sure you are comfortable with the buttons.
 
+## Oculus Touch
+
+![](<../../.gitbook/assets/Oculus Touch Controllers layout.jpg>)
+
 ## Vive
 
 ![](<../../.gitbook/assets/image (8) (3).png>)![](<../../.gitbook/assets/image (6).png>)

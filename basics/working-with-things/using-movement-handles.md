@@ -1,4 +1,4 @@
-# Using the Movement Handles
+# Using Movement Handles
 
 The movement handles let you nudge something along one axis only and with precision. You can show the handles by selection **Movement Handles** from the Inspect Menu.
 
@@ -21,3 +21,5 @@ Grab the handle and a red ball will appear. Twist the ball and the target will r
 The Scale handles how up as corners around the box enclosing the target.
 
 Grab the handle and the target will scale as you move the handle outwards from or inwards towards the target's centre.
+
+{% embed url="https://youtu.be/R61POVAdkFY" %}
