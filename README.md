@@ -1,6 +1,4 @@
-# Welcome to FirstStage
-
-<figure><img src=".gitbook/assets/First Stage_Logo_Icon_Shadow_2048.png" alt=""><figcaption></figcaption></figure>
+# Welcome to the FirstStage Help Centre
 
 With FirstStage, you can quickly sketch out scenes starting from a stage or environment of your choice. You can place characters and bring them to life with body & facial performances or by posing and animating them. You can sketch scenery and place props. You can set up cameras and behaviours. You can setup lighting and VFX.&#x20;
 
