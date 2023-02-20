@@ -1,6 +1,8 @@
 # Cutting faces
 
 {% embed url="https://youtu.be/uMhN_SnLiT4" %}
+Includes dividing faces, and indenting and extruding within faces
+{% endembed %}
 
 You can divide faces and create extrusions, indents and holes inside faces.
 
