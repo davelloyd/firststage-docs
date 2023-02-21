@@ -21,3 +21,10 @@ From the [Timeline](../basics/working-with-time/timeline.md), you can move keyfr
 
 ## Changing the animation behaviour
 
+You can change how the animation behaves between keyframes, by going to the Timeline, pointing at the animation and pressing the **Inspect** button: then choose the **Edit** option in the pop-up menu.
+
+You can now see the properties for the animation:
+
+| **Path Shape**    | <p>Choose between:<br><strong>Jump</strong> - motion jumps directly between keyframes <br><strong>Straight</strong> - motion moves in straight lines between keyframes<br><strong>Curve</strong> - motion follows a smooth curve between keyframes</p>                                                                                                               |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Speed Profile** | <p>Choose between:<br><strong>Uniform</strong> - motion is at a constant speed between keyframes<br><strong>Smooth Start And Stop</strong> - motion is mostly uniform but starts smoothly at the first keyframe and stops smoothly at the last.<br><strong>Pause At Each Key</strong> - motion starts and stops at each keyframe, coming to a brief pause there.</p> |
