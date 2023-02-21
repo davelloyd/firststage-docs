@@ -1,6 +1,6 @@
 # Cutting faces
 
-{% embed url="https://youtu.be/uMhN_SnLiT4" %}
+{% embed url="https://www.youtube.com/watch?ab_channel=FirstStage&v=uMhN_SnLiT4" %}
 Includes dividing faces, and indenting and extruding within faces
 {% endembed %}
 
