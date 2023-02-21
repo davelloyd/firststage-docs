@@ -6,6 +6,14 @@ Once you have your VR rig properly set up with Steam, you can launch FirstStage.
 
 First, you will need to log in with the credentials for your user account.&#x20;
 
+{% hint style="info" %}
+The first time you start FirstStage it will download asset bundles from the repository to complete installation. If there are new assets later, they will be downloaded here.
+
+This can take some time!
+
+This is also the point where any updates to FirstStage itself will be downloaded and applied - you will need to approve this as administrator.
+{% endhint %}
+
 ## Create your first Project
 
 Next you will see the **Projects** screen. As this is the first time, you won't have one so click on the **Create** button.
