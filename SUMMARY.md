@@ -19,7 +19,7 @@
   * [Duplicator](basics/core-tools/duplicator.md)
   * [Selector](basics/core-tools/selector.md)
   * [Destroyer](basics/core-tools/destroyer.md)
-  * [Time Tool](basics/core-tools/time-tool.md)
+  * [Animator](basics/core-tools/animator.md)
   * [Sketcher](basics/core-tools/sketcher.md)
   * [Viewfinder](basics/core-tools/viewfinder.md)
   * [Tape Measure](basics/core-tools/tape-measure.md)

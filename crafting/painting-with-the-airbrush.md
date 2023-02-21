@@ -1,5 +1,7 @@
 # Painting with the Airbrush
 
+{% embed url="https://youtu.be/zzoX7tmeAbU" %}
+
 You can do detailed painting with the **Airbrush** on [sketches](../sketching.md).
 
 {% hint style="warning" %}
@@ -27,5 +29,3 @@ You can increase or decrease the brush size by using the thumbpad or thumbstick.
 You can change between different brush patterns by going to the **Brushes** tab on the Paint palette.
 
 <figure><img src="../.gitbook/assets/DUMMY 2023-02-14 18-03-50.jpg" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://youtu.be/zzoX7tmeAbU" %}
