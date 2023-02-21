@@ -12,7 +12,7 @@ We can also [multiply select](../core-tools/selector.md), [copy](../core-tools/d
 
 If you point at a thing and press and hold the Inspect button (Vive Menu button or Index/Oculus B button), the Inspect Wheel Menu will show. This has the following actions (depending on the properties of the thing):
 
-<figure><img src="../../.gitbook/assets/DUMMY 2023-02-14 21-11-55 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DUMMY 2023-02-20 17-16-54.jpg" alt=""><figcaption></figcaption></figure>
 
 | Hide Handles     | Hide any handles showing.                             |
 | ---------------- | ----------------------------------------------------- |

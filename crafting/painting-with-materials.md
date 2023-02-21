@@ -23,3 +23,5 @@ Point the Paint Roller at a thing and click the trigger to paint it with that ma
 The eyedropper tool is another special tool that lets you pick a color from any other thing by pointing at it and clicking .
 
 <figure><img src="../.gitbook/assets/DUMMY 2023-02-14 00-54-04 copy.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/zzoX7tmeAbU" %}
