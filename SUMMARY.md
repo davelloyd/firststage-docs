@@ -72,6 +72,7 @@
   * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
 * [Layering Animations](activities/layering-animations.md)
 * [Rigid Animation](activities/rigid-animation.md)
+* [The Animator](activities/the-animator.md)
 
 ## Camerawork
 
