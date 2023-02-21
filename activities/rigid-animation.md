@@ -1,21 +1,23 @@
 # Rigid Animation
 
-Rigid body animation is perhaps the simplest of methods for moving any thing around your stage, including 3d sketches, Shapes, Props, Vehicles and Characters.
+Rigid body animation is perhaps the simplest of methods for moving any thing around your stage, including Sketches, Shapes, Props, Vehicles and Characters.
 
-Use the Grabber to move a thing to create a keyframe, then change time on the Timeline and move it again to create a second keyframe. The FirstStage engine uses cubic interpolation and speed curves to create smooth movement between those keyframes.
+To start, point at the thing you want to animate, press the **Inspect** button and select **Start Motion** from the [Inspect Menu](../basics/working-with-things/#inspect-menu). (This step is not needed for character puppets as they are always animated.) This will create a keyframe on the Timeline.
 
-_Note - You can move things along all three axis, so it is good for vehicles and aircraft._
+You can now scrub the timeline and use the [Grabber](../basics/core-tools/grabber.md) to move the thing to create a new keyframe. When you scrub between those keyframes, the thing will move: it will follow a smooth spline between the points and uses speed curves to start and stop smoothly.
 
-The **Motion Path** created can be interacted with as a 3d timeline - a visual timeline of particles follows the centre of the thing in motion. Whilst using the Grabber:
+{% hint style="info" %}
+The 'advance a beat' button on the [Transport Controls](../basics/working-with-time/#transport-controls) is very useful for pacing motion.
+{% endhint %}
 
-1. Bring up your wristwatch to select the timeline
-2. Animate the desired body by pressing the 'B' button/ ThumbPad to bring up the handles menu and select 'Start Motion' - It will now appear as a keyframe on your timeline.
-3. Using the grabber on the tool wheel, scrub the timeline to the time you want your next keyframe.
-4. Point at the object and hold the trigger, then place the object in its desired position for the end of the keyframe, and release the trigger.  A **motion path** between the objects start and end point in that keyframe will now appear (represented by a trail of glowing coloured dots) that the object will follow to jump to the next keyframe within the time set.
-5. All other animated bodies on set will also scrub, making it a great visual way to accurately select time.
-6. To adjust the speed of the animation, scrub the desired keyframe to a new time; this will speed or slow the motion path.
+The animation will have an associated [Motion Path](../basics/working-with-time/motion-paths.md) visible in the scene. If it hides away, point at the thing again to bring it back. You can use this to scrub time to where you want.&#x20;
 
-_**Tip - Build up your movement in stages.**_\
-_e.g. Place a car, then move time and place the car a second time to create a straight motion path between those two points. Then scrub the motion path to points where the car is not moving naturally, and re-orientate the car to create new keyframes in between._ Alternatively, the same technique can be applied by scrubbing on  the timeline.
+{% hint style="info" %}
+**Build up your movement in stages:**\
+For example, place a car, then move time and place the car a second time to create a straight motion path between those two points. Then scrub the motion path to points where the car is not moving naturally, and re-orientate the car to create new keyframes in between. Alternatively, the same technique can be applied by scrubbing on  the timeline.
+{% endhint %}
 
-_Using these technique's allows for very convincing movements of bodies._
+From the [Timeline](../basics/working-with-time/timeline.md), you can move keyframes in timne to change the speed of the animation. You can also spped up or slow down the whole animation by dragging an end handle.
+
+## Changing the animation behaviour
+
