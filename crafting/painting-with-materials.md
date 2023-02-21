@@ -1,5 +1,7 @@
 # Painting with Materials
 
+{% embed url="https://youtu.be/zzoX7tmeAbU" %}
+
 Most things in FirstStage are constructed from triangle meshes. Each mesh can have its own material and depending on how a thing is constructed it might have just the one material or many.&#x20;
 
 {% hint style="info" %}
@@ -23,5 +25,3 @@ Point the Paint Roller at a thing and click the trigger to paint it with that ma
 The eyedropper tool is another special tool that lets you pick a color from any other thing by pointing at it and clicking .
 
 <figure><img src="../.gitbook/assets/DUMMY 2023-02-14 00-54-04 copy.png" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://youtu.be/zzoX7tmeAbU" %}
