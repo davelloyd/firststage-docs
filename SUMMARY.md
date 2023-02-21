@@ -53,7 +53,7 @@
 * [Sketching](sketching.md)
   * [Cutting a Tunnel](crafting/sketching/cutting-a-tunnel.md)
   * [Manipulating Edges & Vertices on 3d Objects](crafting/sketching/manipulating-edges-and-vertices-on-3d-objects.md)
-  * [Cutting faces](crafting/sketching/cutting-faces.md)
+  * [Cutting Faces](crafting/sketching/cutting-faces.md)
   * [Standard Shapes](crafting/sketching/standard-shapes.md)
 * [Painting with Materials](crafting/painting-with-materials.md)
 * [Painting with the Airbrush](crafting/painting-with-the-airbrush.md)
