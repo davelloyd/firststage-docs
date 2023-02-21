@@ -7,34 +7,32 @@ You will need:
 
 These are the steps you neeed to get going with FirstStage:
 
-<details>
+## Register for a FirstStage user account
 
-<summary>Set up SteamVR</summary>
+You will need a user account to start FirstStage. Go here to sign up:
+
+{% embed url="https://firststage.moviestorm.co.uk/register/" %}
+
+## Download and install FirstStage
+
+To download the FirstStage installer, [click here](https://firststage.s3.eu-central-1.amazonaws.com/FirstStageSetup.exe). Then run it to install FirstStage.
+
+## Set up SteamVR
 
 If you have a Vive or an Index headset, SteamVR will be installed while setting up your headset.
 
-If you are using an Oculus Rift or Quest 2 or do not otherwise have SteamVR installed, you can [get it here](https://store.steampowered.com/app/250820/SteamVR/). You will also need to setup the link between the headset and the PC. You can download the [Oculus software here.](https://www.meta.com/gb/quest/setup/)
+if you are using another headset such as the Meta Quest 2 or do not have SteamVR installed, you can get it here:
 
-</details>
+{% embed url="https://store.steampowered.com/app/250820/SteamVR/" %}
 
 {% hint style="info" %}
 Oculus Quest 2 users also need to set up the PC Link: [instructions here](oculus-quest.md).
 {% endhint %}
 
-<details>
+## Start FirstStage
 
-<summary>Register for a FirstStage user account</summary>
+You should now be ready to start FirstStage and create a scene!
 
-
-
-</details>
-
-<details>
-
-<summary>Download and install FirstStage</summary>
-
-
-
-</details>
-
-You should now be ready to start a project and create a scene!
+{% content-ref url="starting-firststage-for-the-first-time.md" %}
+[starting-firststage-for-the-first-time.md](starting-firststage-for-the-first-time.md)
+{% endcontent-ref %}

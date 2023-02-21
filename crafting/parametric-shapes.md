@@ -11,6 +11,11 @@ In the [Asset Library](../basics/asset-library.md), you will find a variety of p
 * Grab the top or bottom to extend
 * Grab the ends to extend the arc of the section
 
+You can also change how the shape is constructed from the [Inspector](../basics/working-with-things/inspector.md):
+
+| **Facets** | How many facets to subdivide the curved surface into. |
+| ---------- | ----------------------------------------------------- |
+
 ## Sphere Section
 
 <figure><img src="../.gitbook/assets/DUMMY 2023-02-14 21-17-09.jpg" alt=""><figcaption></figcaption></figure>
@@ -18,6 +23,11 @@ In the [Asset Library](../basics/asset-library.md), you will find a variety of p
 * Grab the outside to change the outer radi
 * Grab the inside to change the inner radius
 * Grab one of the edges to change the sweep angle (either latitude or longitude)
+
+You can also change how the shape is constructed from the [Inspector](../basics/working-with-things/inspector.md):
+
+| **Facets** | How many facets to subdivide the curved surface into. |
+| ---------- | ----------------------------------------------------- |
 
 ## Curved Wall
 
