@@ -26,7 +26,7 @@ if you are using another headset such as the Meta Quest 2 or do not have SteamVR
 {% embed url="https://store.steampowered.com/app/250820/SteamVR/" %}
 
 {% hint style="info" %}
-Oculus Quest 2 users also need to set up the PC Link: [instructions here](oculus-quest.md).
+Oculus Quest 2 users also need to set up the PC Link: [instructions here](oculus-quest.md). This allows the Quest to act as a PC VR headset instead of running content standalone.
 {% endhint %}
 
 ## Start FirstStage
