@@ -25,7 +25,7 @@ The following gives you an idea how the different controls on your controller ar
 | ThumbPad (Vive, Index)                | Tracks the position of your thumb and usually controls a radial menu of up to four options - left, right, top and bottom.                                                                                       |
 | ThumbStick (Index, Oculus)            | As the ThumbPad, usually controls a radial menu acting like a d-pad.                                                                                                                                            |
 | B button (Index, Oculus)              | <p>Usually provides a direct binding to the Inspect Menu. Vive users will find Inspect in the Grabber radial menu. </p><p>On flat UI components will open a popup menu.</p>                                     |
-| Grip                                  | <p>Primarily used to <a href="../getting-around/">move around the stage</a>.<br>In some contexts, clicking the grip button will toggle alternative behaviour for the current action. </p>                       |
+| Grip                                  | <p>Primarily used to <a href="../moving-around/">move around the stage</a>.<br>In some contexts, clicking the grip button will toggle alternative behaviour for the current action. </p>                        |
 
 {% hint style="info" %}
 The grip can be an awkward button to locate, but with 1st finger on the trigger you should find it on the side of the controller under your 2nd & 3rd fingertips (Vive) and 2nd,3rd & 4th fingertips (Index).
