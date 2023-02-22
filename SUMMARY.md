@@ -37,6 +37,7 @@
   * [Groups and Assemblies](basics/working-with-things/groups-and-assemblies.md)
 * [Working with Time](basics/working-with-time/README.md)
   * [Timeline](basics/working-with-time/timeline.md)
+  * [Activities](basics/working-with-time/activities.md)
   * [Script](basics/working-with-time/script.md)
   * [Motion Paths](basics/working-with-time/motion-paths.md)
 * [Controls and Automation](basics/controls-and-automation.md)
