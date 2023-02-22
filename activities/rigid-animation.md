@@ -1,5 +1,7 @@
 # Rigid Animation
 
+{% embed url="https://youtu.be/gkTz6Dp6sq4" %}
+
 Rigid body animation is perhaps the simplest of methods for moving any thing around your stage, including Sketches, Shapes, Props, Vehicles and Characters.
 
 To start, point at the thing you want to animate, press the **Inspect** button and select **Start Motion** from the [Inspect Menu](../basics/working-with-things/#inspect-menu). (This step is not needed for character puppets as they are always animated.) This will create a keyframe on the Timeline.
