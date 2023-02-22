@@ -30,6 +30,8 @@ For some activities, you can also stretch the duration or trim/reveal clips: poi
 
 If you press the **Inspect** button, a menu will pop up with options depending on the type of activity. One option will always be **Delete** and you can usually **Duplicate**.
 
+Some activities (such as [Rigid Animation](../../activities/rigid-animation.md)) also have an **Edit** option which will take you to an inspector screen where you can change the behaviour of the activity. Press the top-left arrow or the thumbad back arrow to return to the main timeline.
+
 ### Keyframes
 
 Some activities contain a series of keyframes that are interpolated between. Such an activity is shown with a transparent background and a solid pip for each keyframe.

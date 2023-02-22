@@ -10,11 +10,13 @@ Groups behave as most other things: you can copy, destroy, animate them, etc.
 
 ## Assemblies
 
-You may want to re-use particular groups in other scenes. Assemblies are basically groups that are save to the Asset Repository.
+You may want to re-use particular groups in other scenes. Assemblies are basically groups that are saved to the Asset Repository.
 
 You can save a group as an assembly by going to the Inspector and pressing the **Save As Assembly** button.
 
 In fact, assemblies don't have to come from groups: you can save a single shape (or any other thing) as an assembly.
+
+Saved assemblies are available to any scene and any other team members in your project.
 
 ## Opening Groups
 
@@ -26,5 +28,5 @@ You can also **Open** a group from the Inspector which will open the collection 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>An opened group showing the Inspector view and the individual components labelled.</p></figcaption></figure>
 
-You can temporarily hide individual components which can make it easier to manipulating components otherwise obscured.
+You can temporarily hide individual components which can make it easier to manipulate components otherwise obscured.
 
