@@ -64,6 +64,8 @@
 
 ## Activities
 
+* [Rigid Animation](activities/rigid-animation/README.md)
+  * [Realtime Animation](activities/rigid-animation/realtime-animation.md)
 * [Posing Characters](activities/posing-characters.md)
 * [Performance Capture](activities/performance-capture/README.md)
   * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
@@ -72,8 +74,6 @@
     * [Setting up Facial Capture](activities/performance-capture/face-capture/setting-up-facial-capture.md)
   * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
 * [Layering Animations](activities/layering-animations.md)
-* [Rigid Animation](activities/rigid-animation.md)
-* [The Animator](activities/the-animator.md)
 
 ## Camerawork
 

@@ -16,11 +16,11 @@ If you point at an activity on the Timeline and press the **Inspect** button, a 
 
 <figure><img src="../../.gitbook/assets/DUMMY 2023-02-22 14-11-04 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-| **Delete**    | Delete the activity from the timeline.                                                                                                                                                                                                                                                                |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Duplicate** | Duplicate the activity and place the copy immediately afterwards. This is useful for building a sequence of repeated actions.                                                                                                                                                                         |
-| **Split**     | <p>Split the activity into two parts before and after the current time. </p><p><em>This is only available for clip activities which span the current time.</em></p>                                                                                                                                   |
-| **Edit**      | <p>Shows a screen where you can change the behaviour of the activity.<br>Return here by pressing the top-left arrow or the thumbpad back arrow.<br><em>This is only available for some activities like</em> <a href="../../activities/rigid-animation.md"><em>Rigid Animations</em></a><em>.</em></p> |
+| **Delete**    | Delete the activity from the timeline.                                                                                                                                                                                                                                                              |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Duplicate** | Duplicate the activity and place the copy immediately afterwards. This is useful for building a sequence of repeated actions.                                                                                                                                                                       |
+| **Split**     | <p>Split the activity into two parts before and after the current time. </p><p><em>This is only available for clip activities which span the current time.</em></p>                                                                                                                                 |
+| **Edit**      | <p>Shows a screen where you can change the behaviour of the activity.<br>Return here by pressing the top-left arrow or the thumbpad back arrow.<br><em>This is only available for some activities like</em> <a href="../../activities/rigid-animation/"><em>Rigid Animations</em></a><em>.</em></p> |
 
 ### Keyframes
 

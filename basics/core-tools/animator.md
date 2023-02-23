@@ -15,10 +15,6 @@ You can then move the thing with your hand: it will follow as if on a tight spri
 
 Release the trigger to finish the animation. Recording will stop and a new activity will appear on the timeline. Play back and it will now animate along the motion path created.
 
-{% hint style="info" %}
-Scaling yourself bigger is beneficial for moving objects further distances, whilst scaling smaller is suited better for moving fine details such as peoples limbs to complete an action.
-{% endhint %}
-
 ## Radial Menu
 
 * Record / Pause toggle.

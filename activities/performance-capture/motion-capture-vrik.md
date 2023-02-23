@@ -98,7 +98,7 @@ Locomotion is automatically disabled if you have feet trackers on.
 
 #### Keep Vertical <a href="#_2lq41qv63ot1" id="_2lq41qv63ot1"></a>
 
-When enabled, the performer will remain vertical in the world regardless of whether the puppet is. Turn this off with caution as it can lead to discomfort if you do not have good VR legs.
+When enabled, the performer will remain vertical in the world regardless of whether the puppet is. However this will not give the right results if your character is attached to a moving object that is not keeping vertical. Turn this off with caution as it can lead to discomfort if you do not have good VR legs.
 
 #### Lock Work Area <a href="#_lrt2q4rsedml" id="_lrt2q4rsedml"></a>
 
