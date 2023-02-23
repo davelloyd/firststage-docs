@@ -58,7 +58,7 @@ Sometimes it is convenient or more comfortable for the performer to sit. For exa
 
 #### Prone <a href="#_8is2gnuznblo" id="_8is2gnuznblo"></a>
 
-This is very similar to the Sitting scenario, except that it does not keep the performer’s head vertical and the head will follow the puppet’s pivot. Be warned, if the puppet is thrown around or is spinning, this can be most uncomfortable!
+This is very similar to the Sitting scenario, except that it does not keep the performer’s head vertical and the head will follow the puppet’s pivot. It is intended for scenarios where the puppet is flying around or attached to a moving vehicle. Be warned, if the puppet is thrown around or is spinning, this can be most uncomfortable!
 
 ### Masking <a href="#_r8dvjzj6qwt7" id="_r8dvjzj6qwt7"></a>
 
