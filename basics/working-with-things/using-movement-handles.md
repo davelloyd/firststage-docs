@@ -1,6 +1,6 @@
 # Using Movement Handles
 
-{% embed url="https://youtu.be/R61POVAdkFY" %}
+{% embed url="https://youtu.be/lJy_-UT70l4" %}
 
 The movement handles let you nudge something along one axis only and with precision. You can show the handles by selection **Movement Handles** from the Inspect Menu.
 
