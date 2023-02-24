@@ -1,5 +1,7 @@
 # Motion Capture (VRIK)
 
+{% embed url="https://youtu.be/ugvmqD4V5Pc" %}
+
 FirstStage provides a simple but effective form of motion capture inside VR using the headset and controllers to control a character via inverse kinematics (IK). This only really drives the upper body of the character, but the system will try to guess which way you are walking and apply suitable animations to the waist and legs.
 
 You can also use additional Vive trackers attached to your feet (or ankles) and waist to drive them directly.
