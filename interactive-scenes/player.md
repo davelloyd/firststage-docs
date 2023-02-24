@@ -6,7 +6,7 @@ The **Player** is the entry point for interactive scenes. You can create one fro
 
 To become a player, point at the Player thing with the [Navigator](../basics/core-tools/navigator.md) and pull the trigger to Take Control.
 
-Being a player is similar to being a [performer](../activities/performance-capture/performing.md):&#x20;
+Being a player is similar to being a [performer](../animation/performance-capture/performing.md):&#x20;
 
 * You are teleported to whether the player thing was standing and with its facing.
 * Your hands can only interact with designated things such as Multiple Choice Dialogs or Holdable props.

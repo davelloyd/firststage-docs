@@ -62,18 +62,19 @@
 * [Parametric Shapes](crafting/parametric-shapes.md)
 * [Images](crafting/images.md)
 
-## Activities
+## Animation
 
-* [Rigid Animation](activities/rigid-animation/README.md)
-  * [Realtime Animation](activities/rigid-animation/realtime-animation.md)
-* [Posing Characters](activities/posing-characters.md)
-* [Performance Capture](activities/performance-capture/README.md)
-  * [Motion Capture (VRIK)](activities/performance-capture/motion-capture-vrik.md)
-  * [Performing](activities/performance-capture/performing.md)
-  * [Face Capture](activities/performance-capture/face-capture/README.md)
-    * [Setting up Facial Capture](activities/performance-capture/face-capture/setting-up-facial-capture.md)
-  * [Mocap with Rokoko Smartsuit](activities/performance-capture/mocap-with-rokoko-smartsuit.md)
-* [Layering Animations](activities/layering-animations.md)
+* [Rigid Animation](animation/rigid-animation/README.md)
+  * [Realtime Animation](animation/rigid-animation/realtime-animation.md)
+* [Posing Characters](animation/posing-characters.md)
+* [Performance Capture](animation/performance-capture/README.md)
+  * [Motion Capture (VRIK)](animation/performance-capture/motion-capture-vrik.md)
+  * [Performing](animation/performance-capture/performing.md)
+  * [Face Capture](animation/performance-capture/face-capture/README.md)
+    * [Setting up Facial Capture](animation/performance-capture/face-capture/setting-up-facial-capture.md)
+  * [Mocap with Rokoko Smartsuit](animation/performance-capture/mocap-with-rokoko-smartsuit.md)
+* [Layering Animations](animation/layering-animations.md)
+* [Using Physics](animation/using-physics.md)
 
 ## Camerawork
 
@@ -107,7 +108,3 @@
 * [Creating a Character for Firstage using Character Creator](asset-management/creating-a-character-for-firstage-using-character-creator.md)
 * [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm.md)
 * [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
-
-***
-
-* [Using Physics](using-physics.md)
