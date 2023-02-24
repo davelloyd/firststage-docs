@@ -1,5 +1,7 @@
 # Posing Characters
 
+{% embed url="https://youtu.be/lPdFqizi-eU" %}
+
 Proximity grab a puppet and you can move specific body parts to create poses.
 
 For a humanoid, there are body parts to represent the following bones in the skeleton:

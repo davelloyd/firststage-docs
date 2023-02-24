@@ -1,8 +1,8 @@
 # Realtime Animation
 
-As well as creating an animation from a sequence of keyframes, you can also use your controller to capture a rigid animation in realtime.
+{% embed url="https://youtu.be/0H6zwIiMIrE" %}
 
-{% embed url="https://youtu.be/YAKyvzfX1Bo" %}
+As well as creating an animation from a sequence of keyframes, you can also use your controller to capture a rigid animation in realtime.
 
 Select the [Animator](../../basics/core-tools/animator.md) tool: this works similarly to the Grabber but records the motion in realtime.
 

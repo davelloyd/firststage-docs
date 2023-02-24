@@ -1,5 +1,7 @@
 # Performing
 
+{% embed url="https://youtu.be/7f4HDLY3QzQ" %}
+
 Once you have set up the mocap session as desired, click on the tick button to return to the scene inside the body of your puppet.
 
 Note that recording has not started yet so you have an opportunity to get into position before starting.
