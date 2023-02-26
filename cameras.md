@@ -8,6 +8,24 @@ You can create cameras by going to the [Asset Library](basics/asset-library.md) 
 [viewfinder.md](basics/core-tools/viewfinder.md)
 {% endcontent-ref %}
 
+## Follow Behaviour
+
+The body of the camera can be attached to another thing and it will then follow that thing.
+
+By default, a camera will follow its target rigidly: for example a security camera attached to a moving bus. But it does not need to.
+
+You can attach a camera by using the **Attach** handle available on the [Inspect Menu](basics/working-with-things/#inspect-menu). You can also set a camera to follow its Look Target.
+
+<figure><img src=".gitbook/assets/Follow Test 2023-02-26 21-30-10.jpg" alt=""><figcaption></figcaption></figure>
+
+## Look Behaviour <a href="#_enjm7xrw1oa7" id="_enjm7xrw1oa7"></a>
+
+When a camera has a look target and that target moves, the camera will track the target if the target moves too far from the original position in the field of view. When the target moves a little too far, the camera will track softly as if on a spring. But when the target tries to move outside the camera’s field of view, the camera will track hard to ensure the target remains visible.
+
+The look target is recorded with a look keyframe allowing a shot that doesn’t start tracking until a given time or a shot that stops tracking at a certain point. You can also have shots that hand over from one target to another.
+
+Note that if the camera has a look target, it is applied after the body follow behaviour.
+
 ## Cameras on the Wristpad <a href="#_yjzp7fnhledc" id="_yjzp7fnhledc"></a>
 
 Go to Cameras on the Wristpad to view all the cameras in the scene.

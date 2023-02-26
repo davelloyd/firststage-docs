@@ -4,6 +4,8 @@ The Viewfinder is a useful tool for getting a Director's eye on the scene. As we
 
 The Viewfinder screen shows what is through the lens and can create cameras with motion tracks.
 
+<figure><img src="../../.gitbook/assets/DUMMY 2023-02-26 20-15-24.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Lens Controls <a href="#_6ayqyihy0vzk" id="_6ayqyihy0vzk"></a>
 
 On the left hand side, there are three levers which allow you to adjust the focus, lens and aperture.
