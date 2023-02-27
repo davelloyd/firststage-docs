@@ -1,6 +1,6 @@
 # Through The Lens
 
-Point at a camera with the Navigator tool (the default on your off-hand) and you should see an icon popping up over the camera saying Through The Lens. Click and hold for a second to end the TTL space: here you can adjust your camera framing and work with keyframes to create camera motion paths.
+Point at a camera with the Navigator tool (the default on your off-hand) and you should see an icon popping up over the camera saying Through The Lens. Click and hold for a second to enter the TTL space: here you can adjust your camera framing and work with keyframes to create camera motion paths.
 
 <figure><img src="../.gitbook/assets/Follow Test 2023-02-26 21-31-22.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -19,6 +19,10 @@ Below the monitor is a timeline with three tracks for move, look and lens. You c
 As well as moving keys, you can also hold a keyframe by dragging either end of the keyframe on the timeline: for the duration of the keyframe, that property will not change.
 
 There are also transport controls beneath the timeline allowing you to start/stop and move between sections.
+
+## Camera List <a href="#_cx5ivobs21cd" id="_cx5ivobs21cd"></a>
+
+On the left of the monitor is a list of all the cameras in the scene. If you want to switch which camera you are working with, point at the thumbnail in the list and click on it.
 
 ## Nudge Handles <a href="#_d28o6ft5l27i" id="_d28o6ft5l27i"></a>
 
@@ -67,6 +71,10 @@ The **Cancel Follow** button lets you cancel follow.
 
 If you have a Look Target set, the **Follow Look Target** button will show and lets you set the Follow Target to the Look Target.
 
+{% hint style="info" %}
+Do not be surprised if the camera jumps when you change the follow behaviour as the camera tries to accomodate the new constraint. Typically what the camera thinks is up will change.
+{% endhint %}
+
 ## Post Processing
 
 You can take advantage of [Unity's Post Processing Stack](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.2/manual/index.html) which provides useful effects such as:
@@ -75,8 +83,6 @@ You can take advantage of [Unity's Post Processing Stack](https://docs.unity3d.c
 * Chromatic Aberration & Lens Distortion
 * Color Grading
 
-You can choose from any Post Processing Profiles that have been created in Unity and then imported it into the First Stage Repository.
+You can choose from any Post Processing Profiles that have been created in Unity and then Camera List
 
-## Camera List <a href="#_cx5ivobs21cd" id="_cx5ivobs21cd"></a>
-
-On the left of the monitor is a list of all the cameras in the scene. If you want to switch which camera you are working with, point at the thumbnail in the list and click on it.
+On the left of the monitor is a list of all the cameras in the scene. If you want to switch which camera you are working with, point at the thumbnail in the list and click on it.imported it into the First Stage Repository.
