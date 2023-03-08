@@ -52,28 +52,38 @@ Note that if a target is set, the focal depth cannot be changed.
 
 There is also a dropdown to let you choose a post-process profile to be applied to the lens. Post-process profiles let you specify color grading, lens flare and many other effects. The profiles available are taken from the Asset Repository: you can create new ones in Unity and commit them to the repository, after which they will be available for use.
 
-## Follow Behaviour <a href="#_6i1r38f850fm" id="_6i1r38f850fm"></a>
+## Tracking Behaviour <a href="#_6i1r38f850fm" id="_6i1r38f850fm"></a>
 
-If the body of the camera is following another thing, it will show in the left hand panel.&#x20;
+If the body of the camera is tracking another thing, it will show in the left hand panel.&#x20;
 
 A dropdown lets you choose from the following behaviours:
 
-| Rigid Lock    | The camera will follow its target rigidly moving and rotating as if connected to the target.                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| No Roll       | The camera will follow its target rigidly, but with no roll.                                                                         |
-| Keep Vertical | The camera will follow its target rigidly but with no tilt and no roll.                                                              |
-| No Rotation   | The camera will only track the position of the target but maintains its original orientation.                                        |
-| Follow        | Mimics a human operator following a target: the camera tries to move as little as possible to maintain the distance from the target. |
+| Rigid Attach | The camera will track its target rigidly moving and rotating as if attached to the target.                                                                                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Track        | The camera will maintain the same position relative to the target but will not swing round as the target turns.                                                                                                                              |
+| Follow       | Mimics a human operator following a target: the camera tries to move as little as possible to maintain the distance and elevation from the target. Unlike the Tracking behaviour, it means that targets can move close and past the camera.  |
 
 The **Damping** slider sets how hard the camera body tracks the target. At 0, the camera tracks rigidly. The damping response time describes how quickly the camera will catch with the target.
 
-The **Cancel Follow** button lets you cancel follow.
+The **Cancel Tracking** button lets you cancel follow.
 
-If you have a Look Target set, the **Follow Look Target** button will show and lets you set the Follow Target to the Look Target.
+If you have a Look Target set, the **Track Look Target** button will show and lets you set the Tracking Target to the Look Target.
 
 {% hint style="info" %}
-Do not be surprised if the camera jumps when you change the follow behaviour as the camera tries to accomodate the new constraint. Typically what the camera thinks is up will change.
+Do not be surprised if the camera jumps when you change the tracking behaviour as the camera tries to accomodate the new constraint. Often what the camera thinks is up will change.
 {% endhint %}
+
+## Look Behaviour
+
+If the camera head is aiming at a target, it will show in the right hand panel.
+
+The **Slack** slider lets you control how much slack the camera has in maintaining the target position in the view field: zero slack will keep the camera tight on the the target screen position; higher slack will let the target drift around and is usually desirable for more natural camera motion; maximum slack will even let the target drift off the screen altogether.
+
+{% hint style="info" %}
+The camera will only drift away from the target when the scene is running: it will always aim precisely when scrubbing time.
+{% endhint %}
+
+The **Cancel Look** button will cancel the Look Target.
 
 ## Post Processing
 
@@ -86,3 +96,6 @@ You can take advantage of [Unity's Post Processing Stack](https://docs.unity3d.c
 You can choose from any Post Processing Profiles that have been created in Unity and then Camera List
 
 On the left of the monitor is a list of all the cameras in the scene. If you want to switch which camera you are working with, point at the thumbnail in the list and click on it.imported it into the First Stage Repository.
+
+## Camera Sensor
+
