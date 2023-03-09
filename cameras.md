@@ -8,7 +8,7 @@ You can create cameras by going to the [Asset Library](basics/asset-library.md) 
 [viewfinder.md](basics/core-tools/viewfinder.md)
 {% endcontent-ref %}
 
-## Follow Behaviour
+## Tracking Behaviour
 
 The body of the camera can be attached to another thing and it will then follow that thing.
 
@@ -21,6 +21,8 @@ You can attach a camera by using the **Attach** handle available on the [Inspect
 ## Look Behaviour <a href="#_enjm7xrw1oa7" id="_enjm7xrw1oa7"></a>
 
 When a camera has a look target and that target moves, the camera will track the target if the target moves too far from the original position in the field of view. When the target moves a little too far, the camera will track softly as if on a spring. But when the target tries to move outside the camera’s field of view, the camera will track hard to ensure the target remains visible.
+
+You can set how tightly the camera tracks its target.
 
 The look target is recorded with a look keyframe allowing a shot that doesn’t start tracking until a given time or a shot that stops tracking at a certain point. You can also have shots that hand over from one target to another.
 
