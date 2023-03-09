@@ -8,15 +8,17 @@ You can create cameras by going to the [Asset Library](basics/asset-library.md) 
 [viewfinder.md](basics/core-tools/viewfinder.md)
 {% endcontent-ref %}
 
-## Tracking Behaviour
+## Attaching a Camera
 
-The body of the camera can be attached to another thing and it will then follow that thing.
-
-By default, a camera will follow its target rigidly: for example a security camera attached to a moving bus. But it does not need to: you can choose from a behaviours from rigid lock to a simple follow. You can also set the damping time on the motion to get a smoother camera path.
-
-You can attach a camera by using the **Attach** handle available on the [Inspect Menu](basics/working-with-things/#inspect-menu). You can also set a camera to follow its Look Target.
+You can attach a camera by using the **Attach** handle available on the [Inspect Menu](basics/working-with-things/#inspect-menu). This is suitable for a security camera attached to a moving bus or if you want a shot from the POV of a moving car, etc.
 
 <figure><img src=".gitbook/assets/Follow Test 2023-02-26 21-30-10.jpg" alt=""><figcaption></figcaption></figure>
+
+## Follow Behaviour
+
+Instead of a rigid attachment, a camera can follow its target as a human camera operator would when instructed to follow a target. The camera attempts to move as little as possible to maintain the same distance from the target; the direction of the camera with regard to the target does not matter. Regardless of the orientation of the target, the camera tries to preserve the same distance and height from it.
+
+By default, a camera will follow its target rigidly: for example a security camera attached to a moving bus. But it does not need to: you can choose from a behaviours from rigid lock to a simple follow. You can also set the damping time on the motion to get a smoother camera path.
 
 ## Look Behaviour <a href="#_enjm7xrw1oa7" id="_enjm7xrw1oa7"></a>
 

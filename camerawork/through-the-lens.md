@@ -63,15 +63,19 @@ A dropdown lets you choose from the following behaviours:
 | Track        | The camera will maintain the same position relative to the target but will not swing round as the target turns.                                                                                                                              |
 | Follow       | Mimics a human operator following a target: the camera tries to move as little as possible to maintain the distance and elevation from the target. Unlike the Tracking behaviour, it means that targets can move close and past the camera.  |
 
-The **Damping** slider sets how hard the camera body tracks the target. At 0, the camera tracks rigidly. The damping response time describes how quickly the camera will catch with the target.
+The **Damping** slider sets how quickly the camera body tracks the target. At 0, the camera tracks rigidly. Increasing the damping response time slows down how quickly the camera will catch with the target leading to smoother camera behaviour.
 
-The **Cancel Tracking** button lets you cancel follow.
+The **Cancel Follow** button lets you cancel the follow behaviour.
 
 If you have a Look Target set, the **Track Look Target** button will show and lets you set the Tracking Target to the Look Target.
 
 {% hint style="info" %}
-Do not be surprised if the camera jumps when you change the tracking behaviour as the camera tries to accomodate the new constraint. Often what the camera thinks is up will change.
+Do not be surprised if the camera jumps when you change the follow behaviour as the camera tries to accomodate the new constraint. Often what the camera thinks is up will change.
 {% endhint %}
+
+For further insight, this may help:
+
+{% embed url="https://docs.unity3d.com/Packages/com.unity.cinemachine@2.8/manual/CinemachineBindingModes.html" %}
 
 ## Look Behaviour
 

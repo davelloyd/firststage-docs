@@ -30,7 +30,7 @@ For your first scene, choose the **Empty Stage**.
 
 ## Run through the Tutorial
 
-The first time you go on set, you will be presented with a brief tutorial. You can dismiss it at any point, but it is well worth going through it from start to finish. Once you have completed the tutorial, it won't show again until you go to the **Preferences** section on the **WristPad** and click on the **Restart Tutorial** button.
+The first time you go on set, you will be presented with a brief tutorial. You can dismiss it at any point, but it is well worth going through it from start to finish.&#x20;
 
 The tutorial will introduce you to the following aspects of FirstStage:
 
@@ -46,6 +46,10 @@ The tutorial will introduce you to the following aspects of FirstStage:
 * WristPad
 * Timeline
 * Cameras
+
+Once you have completed the tutorial, it won't show again until you go to the **Preferences** section on the **WristPad** and click on the **Restart Tutorial** button.
+
+If you are introducing someone to FirstStage, you can also start the tutoral from outside VR from the desktop by pressing Ctrl-Alt-T on the keyboard.
 
 ## You're ready to play!
 
