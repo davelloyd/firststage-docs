@@ -4,7 +4,7 @@ Moviestorm FirstStage is built on the Unity Game Engine. As a result, all asset 
 
 ## Install Unity
 
-FirstStage uses the 2018.4.23 version of the Unity engine. The easiest way to locate that version is via the [Unity Hub](https://unity3d.com/get-unity/download).
+FirstStage uses the 2020 (LTS) version of the Unity engine. The easiest way to locate that version is via the [Unity Hub](https://unity3d.com/get-unity/download).
 
 ### Install the Unity Hub
 
