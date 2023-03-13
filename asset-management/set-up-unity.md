@@ -65,5 +65,3 @@ This will simplify adding assets to local or cloud based FirstStage projects
 {% hint style="info" %}
 You should now have an entry for ‘Asset Importer’ under your Projects. In the Unity Version column, select the version we just installed (it will be the only one unless you have previous versions of Unity installed) to launch it.
 {% endhint %}
-
-_You can also launch the Editor from your Start Menu, under Unity_
