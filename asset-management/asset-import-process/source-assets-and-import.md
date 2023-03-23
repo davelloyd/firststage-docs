@@ -24,7 +24,7 @@ As a free item, instead of ‘Add to Cart’ and having to go through the purcha
 
 We can download the asset directly from within the Unity Editor and import it into our Asset Importer project.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Open the **Package Manager** pane if it is not already: Window > Package Manager
 2. Make sure you have **My Assets** selected in the top left **Packages** dropdown.

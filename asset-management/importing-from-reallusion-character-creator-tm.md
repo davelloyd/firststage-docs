@@ -1,22 +1,10 @@
 # Importing from Reallusion Character Creator™
 
-This guide assumes you have already [set up Unity and the Asset Importer project](https://firststage.moviestorm.co.uk/knowledgebase/set-up-unity/) so you can import assets into FirstStage.
+This guide assumes you have already [set up Unity and the Asset Importer project](set-up-unity.md) so you can import assets into FirstStage.
 
-### Install the Unity Plugin
+The Asset Importer project includes the appropriate Unity Plugin from Reallusion as a package from the git repository.
 
-First of all, we will need to download and install the [Unity Plugin from Reallusion](https://www.reallusion.com/character-creator/unity-auto-setup.html).
-
-Then we need to import that into our Unity project (following the [instructions here](https://manual.reallusion.com/CC\_and\_IC\_Auto\_Setup\_Plugin/ENU/CC\_and\_iC\_Auto\_Setup/1.0/03\_for\_Unity/Installing\_CC\_Auto\_Setup\_to\_Unity.htm)):
-
-1. Open up the Unity Asset Importer project.
-2. In Unity, go to the Assets menu and select Import Package...
-3.  Choose the path where the Reallusion unity plugin was installed - by default:
-
-    C:\Program Files\Reallusion\Shared Plugins\Auto Setup\Unity\AutoSetup 1.1 for Unity 2019.3
-4. Select the **3D** package in that folder to import.
-5. You should now have a folder named "CC\_Assets" in your Unity Project.
-
-### Export from Character Creator
+## Export from Character Creator
 
 Follow the [instructions here](https://manual.reallusion.com/CC\_and\_IC\_Auto\_Setup\_Plugin/ENU/CC\_and\_iC\_Auto\_Setup/1.0/03\_for\_Unity/Unity\_Importing\_Character\_FBX\_File.htm) to export a character suitable for import into Unity:
 
@@ -25,56 +13,61 @@ Follow the [instructions here](https://manual.reallusion.com/CC\_and\_IC\_Auto\_
 3. In the export wizard make sure you set the Target Tool Preset to Unity3D.
 4. Click the Export button to export the character into a custom folder.
 
-### Import the Character into Unity
+## Import the Character into Unity
 
-1. Inside Unity, open up the CC\_Assets folder in the Project view.
-2. Drag and drop the folder containing the exported character (from the previous step) into the CC\_Assets folder.
+1. Inside Unity, create a suitable folder in the Project view: we use "Reallusion" so we know where it came from.
+2. Drag and drop the folder containing the exported character (from the previous step) into this folder.
 3. Unity will now do some processing which will take a short time to import the models and materials.
 4. Inside that folder you should now find an FBX object for you character.
-5. Drag and drop this into the default scene to check that it has imported correctly.
+5. You may get a pop up about NormalMap settings, in which case click on **Fix now**.
 
-You may also find [this guide](https://magazine.reallusion.com/2018/12/13/character-creator-3-tutorial-exporting-cc3-base-characters-to-unity/) helpful for solving issues arising from exporting into Unity as well as [this forum thread](https://forum.unity.com/threads/character-creator-3-tutorial-part-1-exporting-a-cc3-character-base-to-unity.599911/).
+## Rig the Character
 
-### Rig the Character for FirstStage
+1. Next, open the CC Importer tool, by going to the main menu > Reallusion > Import Characters. This is where we can decide what features to use for the character and make sure materials are correct.&#x20;
+2. In the CC/iC Importer you should see the character you've just imported. But if not you can select it in the left hand column of the importer window which shows all the CC characters available.&#x20;
+3. The Importer tool lets you choose the quality of materials, eyes, hair etc and lets you choose features like cloth physics. But for now we'll go with the default settings. Press the **Build Materials** button and it will be busy for a short while rigging the character.
+4. The Project view should now be showing the prefab for the new character. If you click on the top button in the right hand column of the Importer tool, it will show you your character in a new scene. Here you can have a look to see if looks ok and if not you can adjust the settings to fix it.
+5. Finally, right-click on the prefab and select **Create FirstStage Character**: this will generate another prefab which is configured for FirstStage and is the one we will commit to the repository.&#x20;
 
-We need to do just a little packaging to prepare the character for use in FirstStage:
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. In the root of the scene hierarchy, create an Empty gameobject (right click menu) and name it suitably. This will be the container for the character and its name will be used inside FirstStage.
-2. Drag and drop the FBX object of the imported character inside this gameobject.
-3. Select the container object in the hierarchy view and from the Inspector view, Add Component and look for the Puppet Setup component.
-4. The main property to set in the Puppet Setup component is the height if your character is not 'normal' sized.
-5. Finally create a prefab for your character by dragging the container object into a folder in your Project Assets.The folder should be suitably named - perhaps simply "Reallusion" to reflect its source.
+For background characters, you might want to select Basic Materials, Basic Eyes, One Pass Hair and No Features. Particularly if you want to populate a scene with lots of them.
 
-### Export the Character to FirstStage
+For foreground characters that will be in front of the camera, you might want to select High Quality Materials, Parallax Eyes, Two Pass Hair and Everything. However if you have too many of them in a scene, your framerate might drop uncomfortably low.
+
+Full details of how to use the Importer tool can be found in the documentation here:
+
+{% embed url="https://soupday.github.io/cc_unity_tools/" %}
+
+## Export the Character to FirstStage
 
 We can now export the character to FirstStage:
 
 1. Select the prefab you just created in the Project view.
 2. Open the FirstStage Repository view (Moviestorm > FirstStage Repository if not already open).
 3. Press the Import button and you should then see your new character appear under the Pending folder.
-4. Select your character in the Pending folder and give it the "Character" tag in the right hand panel.
+4. Select your character in the Pending folder and give it the "Character" tag in the right hand panel. It's also a good idea to tag it with "Male" or "Female" along with another tag for context such as "Viking".
 5. Make sure the LOCAL repository is selected and then press the Commit button.
 6. If you now start FirstStage, you should find your new character in the Asset browser by selecting Project Assets on the left.
 7. If you are happy with the character, you could then choose a specific project and upload it to the cloud for everyone else working on the project to use.
 
-### Common Issues
+## Common Issues
 
-#### Hair
+### Hair
 
-Character Creator exports its puppets with a transparent shader for hair. This can result in different layers of the hair looking wrong particularly at some viewing angles.
+Hair is really hard to get to look good an a game engine. You may want to adjust settings depending on how your hair was constructed in Character Creator and whether it is more or less thick.
 
-You can improve this by finding changing the render mode for the hair materials:
+1. Find the hair in the tree view in the CC/iC Importer view: it is often not helpfully labelled. In the example above it is "Group1\_001"!
+2. Select the material under the hair: in the example above it was helpfully labelled "\_Transparency\_tra".
+3. In the Inspector view you should see various properties controlling the hair material.&#x20;
+4. Find the **Alpha Cutoff** slider. Adjust this to fit. You can often reduce it to almost zero to get it looking right from all angles.
 
-1. Find the hair materials - they are usually in the Materials folder inside the FBX file you imported for the character.
-2. Select each hair material (typically named "Hair\_Transparency\_x\_Pbr") and, in the Inspector panel, change the Rending Mode from Fade to Cutout.
+{% hint style="info" %}
+You should not need to rebuild the FirstStage Character unless you re-import from scratch as the FS prefab references the CC prefab and should reflect any changes.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+But you will need to commit it to the Asset Repository again.
+{% endhint %}
 
-#### Single Sided Clothing
 
-Another common problem is clothing where you can often see through the 'inside' of a costume.&#x20;
 
-This can be fixed by replacing the shader of clothing materials with a double sided shader:
-
-1. Select the material(s) you want to fix in the Materials folder.
-2. In the Inspector panel, change the Shader from Standard to Standard-DoubleSided.
+####
