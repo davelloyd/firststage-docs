@@ -71,6 +71,7 @@
 * [Posing Characters](animation/posing-characters.md)
 * [Performance Capture](animation/performance-capture/README.md)
   * [Motion Capture (VRIK)](animation/performance-capture/motion-capture-vrik.md)
+  * [Setting up Vive Trackers](animation/performance-capture/setting-up-vive-trackers.md)
   * [Performing](animation/performance-capture/performing.md)
   * [Face Capture](animation/performance-capture/face-capture/README.md)
     * [Setting up Facial Capture](animation/performance-capture/face-capture/setting-up-facial-capture.md)
@@ -110,7 +111,3 @@
 * [Creating a Character for Firstage using Character Creator](asset-management/creating-a-character-for-firstage-using-character-creator.md)
 * [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm.md)
 * [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
-
-***
-
-* [Setting up Vive Trackers for Mocap](setting-up-vive-trackers-for-mocap.md)

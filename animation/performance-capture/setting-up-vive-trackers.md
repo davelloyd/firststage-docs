@@ -1,4 +1,4 @@
-# Setting up Vive Trackers for Mocap
+# Setting up Vive Trackers
 
 ### Configure Trackers with SteamVR
 
@@ -8,7 +8,7 @@ Go to the SteamVR status window and select Devices > Manage Vive Trackers from t
 
 Identify each tracker in turn and select the appropriate Tracker Role: left and right feet and waist.
 
-<figure><img src=".gitbook/assets/SteamVR-Settings-21_03_2021-22_07_38-512x384.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SteamVR-Settings-21_03_2021-22_07_38-512x384.png" alt=""><figcaption></figcaption></figure>
 
 ### Fit the trackers
 
@@ -16,7 +16,7 @@ You can attach trackers to the top of your feet or to your ankles: we often find
 
 The waist tracker can face forwards or backwards depending on what you want to perform: remember the tracker needs to be visible to the base stations.
 
-<figure><img src=".gitbook/assets/Vive Trackers with straps.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vive Trackers with straps.JPG" alt=""><figcaption></figcaption></figure>
 
 ### Capturing Performance
 
