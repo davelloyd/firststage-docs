@@ -1,6 +1,8 @@
 # Painting with Materials
 
-{% embed url="https://youtu.be/zzoX7tmeAbU" %}
+{% embed url="https://youtu.be/ZfYzs480qk4" %}
+0:05 Painting with the Airbrush  |   0:35 Adding Materials to Objects
+{% endembed %}
 
 Most things in FirstStage are constructed from triangle meshes. Each mesh can have its own material and depending on how a thing is constructed it might have just the one material or many.&#x20;
 
