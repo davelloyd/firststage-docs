@@ -27,7 +27,7 @@ Follow the [instructions here](https://manual.reallusion.com/CC\_and\_IC\_Auto\_
 2. In the CC/iC Importer you should see the character you've just imported. But if not you can select it in the left hand column of the importer window which shows all the CC characters available.&#x20;
 3. The Importer tool lets you choose the quality of materials, eyes, hair etc and lets you choose features like cloth physics. But for now we'll go with the default settings. Press the **Build Materials** button and it will be busy for a short while rigging the character.
 4. The Project view should now be showing the prefab for the new character. If you click on the top button in the right hand column of the Importer tool, it will show you your character in a new scene. Here you can have a look to see if looks ok and if not you can adjust the settings to fix it.
-5. Finally, right-click on the prefab and select **Create FirstStage Character**: this will generate another prefab which is configured for FirstStage and is the one we will commit to the repository.&#x20;
+5. Finally, right-click on the prefab and select **Create FirstStage Puppet**: this will generate another prefab which is configured for FirstStage and is the one we will commit to the repository.&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
