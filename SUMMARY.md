@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Release Notes](release-notes/README.md)
-  * [Release 32 (March 2023)](release-notes/release-32-march-2023.md)
+  * [Release 32](release-notes/release-32.md)
 
 ## Basics
 

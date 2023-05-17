@@ -121,4 +121,3 @@ Now the prefabs are in the repository, we can identify all the game objects in t
 Select the menu option Moviestorm > Identify Stage Things\
 _NB - Nothing will visibly happen, but a list of identified Assets will appear in the Console window._
 
-****

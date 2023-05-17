@@ -1,6 +1,6 @@
 # Face Capture
 
-Facial animation can really bring a character to life. FirstStage lets you use an iPhone X or later (must support face tracking) to capture facial animation. It works by running a **companion app** __ on your which connects to FirstStage and sends it the facial animation data.
+Facial animation can really bring a character to life. FirstStage lets you use an iPhone X or later (must support face tracking) to capture facial animation. It works by running a **companion app** on your which connects to FirstStage and sends it the facial animation data.
 
 {% content-ref url="setting-up-facial-capture.md" %}
 [setting-up-facial-capture.md](setting-up-facial-capture.md)
