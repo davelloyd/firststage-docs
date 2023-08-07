@@ -16,7 +16,7 @@ FirstStage now uses the Vivox service for voice communications between users in 
 
 ## Faster Scene Loading
 
-Various improvements have been to speed up loading of scenes from the moment you click Enter to the moment you can do something in the scene.&#x20;
+Various improvements have been made to speed up loading of scenes from the moment you click Enter to the moment you can do something in the scene.&#x20;
 
 In one of our tests, a scene which took more than 3 minutes to load previously, now takes about 20 seconds to load!
 
