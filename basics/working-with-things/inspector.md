@@ -6,23 +6,11 @@ When you press the **Inspect** button, as well as opening the Inspect Menu, it w
 
 ## Properties
 
-| Lock        | When locked, a thing cannot be moved or destroyed.                                                                                                                                             |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Physics     | When physics is enabled, the thing will fall under gravity and react to collisions.                                                                                                            |
-| Mass        | The mass of the thing determiness how it reacts to collisions. A heavy thing colliding with a light thing will only be deflected a small amount while the light thing will be deflected a lot. |
-| Bounciness  | How much something bounces when it hits something else.                                                                                                                                        |
-| Friction    | The amount of friction when something is dragging against something else.                                                                                                                      |
-| Walkable On | If a thing is walkable on, a character can walk on it - otherwise a character will walk through it.                                                                                            |
-| Holdable    | If a thing is holdable, a performer can grab the thing when performing first-person.                                                                                                           |
-| Image       | Some things have materials that can hold images. If so, there will be an entry here.                                                                                                           |
+<table data-header-hidden><thead><tr><th width="245"></th><th></th></tr></thead><tbody><tr><td>Lock</td><td>When locked, a thing cannot be moved or destroyed.</td></tr><tr><td>Physics</td><td>When physics is enabled, the thing will fall under gravity and react to collisions.</td></tr><tr><td>Mass</td><td>The mass of the thing determiness how it reacts to collisions. A heavy thing colliding with a light thing will only be deflected a small amount while the light thing will be deflected a lot.</td></tr><tr><td>Bounciness</td><td>How much something bounces when it hits something else.</td></tr><tr><td>Friction</td><td>The amount of friction when something is dragging against something else.</td></tr><tr><td>Walkable On</td><td>If a thing is walkable on, a character can walk on it - otherwise a character will walk through it.</td></tr><tr><td>Holdable</td><td>If a thing is holdable, a performer can grab the thing when performing first-person.</td></tr><tr><td>Image</td><td>Some things have materials that can hold images. If so, there will be an entry here.</td></tr></tbody></table>
 
 ## Actions
 
-| Show Now      | Hides the thing at start of time, and shows it now.                                         |
-| ------------- | ------------------------------------------------------------------------------------------- |
-| Show          | Shows the thing now.                                                                        |
-| Hide          | Hides the thing now.                                                                        |
-| Record a note | Records a voice memo attached to the thing. Can be useful for informing other team members. |
+<table data-header-hidden><thead><tr><th width="243.5"></th><th></th></tr></thead><tbody><tr><td>Show Now</td><td>Hides the thing at start of time, and shows it now.</td></tr><tr><td>Show</td><td>Shows the thing now.</td></tr><tr><td>Hide</td><td>Hides the thing now.</td></tr><tr><td>Record a note</td><td>Records a voice memo attached to the thing. Can be useful for informing other team members.</td></tr></tbody></table>
 
 ## Renaming Things
 

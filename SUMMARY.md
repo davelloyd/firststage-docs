@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Release Notes](release-notes/README.md)
+  * [Release 33](release-notes/release-33.md)
   * [Release 32](release-notes/release-32.md)
 
 ## Basics

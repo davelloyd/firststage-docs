@@ -13,8 +13,7 @@ In the [Asset Library](../basics/asset-library.md), you will find a variety of p
 
 You can also change how the shape is constructed from the [Inspector](../basics/working-with-things/inspector.md):
 
-| **Facets** | How many facets to subdivide the curved surface into. |
-| ---------- | ----------------------------------------------------- |
+<table data-header-hidden><thead><tr><th width="220"></th><th></th></tr></thead><tbody><tr><td><strong>Facets</strong></td><td>How many facets to subdivide the curved surface into.</td></tr></tbody></table>
 
 ## Sphere Section
 
@@ -26,8 +25,7 @@ You can also change how the shape is constructed from the [Inspector](../basics/
 
 You can also change how the shape is constructed from the [Inspector](../basics/working-with-things/inspector.md):
 
-| **Facets** | How many facets to subdivide the curved surface into. |
-| ---------- | ----------------------------------------------------- |
+<table data-header-hidden><thead><tr><th width="220"></th><th></th></tr></thead><tbody><tr><td><strong>Facets</strong></td><td>How many facets to subdivide the curved surface into.</td></tr></tbody></table>
 
 ## Curved Wall
 
@@ -54,3 +52,10 @@ You can also change how the shape is constructed from the [Inspector](../basics/
 * Grab the top of the bottom stair to change the height of each step
 * Grab the from of a step to change the step length
 
+## Convert to Sketch
+
+Sometimes it can be useful to make more detailed edits than the parametric handles allow. Converting a shape to a sketch allows you to edit vertices, edges, and faces directly and also allowing cutting new faces and extrusion of faces.
+
+To do this, select the shape and go to the [Inspector](../basics/working-with-things/inspector.md) panel on the WristPad and click on the **Convert to Sketch** action.
+
+Note that once converted to a sketch, none of the parametric handles will be available.

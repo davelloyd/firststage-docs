@@ -8,23 +8,7 @@ These screens and how to use them are described later in context.&#x20;
 
 <figure><img src="../../.gitbook/assets/DUMMY 2023-02-08 14-03-42.jpg" alt=""><figcaption></figcaption></figure>
 
-| Screen                                                       | Description                                        |
-| ------------------------------------------------------------ | -------------------------------------------------- |
-| **Browser**                                                  | Web Browser showing this documentation by default. |
-| **Settings**                                                 | Settings for sketching, snap, et al.               |
-| **Paint**                                                    | Paint color & brush palette                        |
-| **Materials**                                                | Materials palette for the Paint Roller             |
-| **Preferences**                                              | Your working preferences                           |
-| ****[**Cameras**](../../cameras.md)****                      | Monitor the available cameras                      |
-| **Lights**                                                   | Lighting controls                                  |
-| **Stage Controls**                                           | Controls for stage machinery                       |
-| **Sound**                                                    | Sound mixing desk                                  |
-| **Mocap**                                                    | Assign motion capture sources                      |
-| ****[**Script**](../working-with-time/script.md)****         | Work with the script view                          |
-| ****[**Timeline**](../working-with-time/timeline.md)****     | Work with the timeline view                        |
-| ****[**Inspector**](../working-with-things/inspector.md)**** | Inspect and modify the properties of things        |
-| **Collaboration**                                            | Team collaboration                                 |
-| ****[**Undo History**](../undo-redo.md)****                  | Rewind the Undo History                            |
+<table><thead><tr><th width="247">Screen</th><th>Description</th></tr></thead><tbody><tr><td><strong>Browser</strong></td><td>Web Browser showing this documentation by default.</td></tr><tr><td><strong>Settings</strong></td><td>Settings for sketching, snap, et al.</td></tr><tr><td><strong>Paint</strong></td><td>Paint color &#x26; brush palette</td></tr><tr><td><strong>Materials</strong></td><td>Materials palette for the Paint Roller</td></tr><tr><td><strong>Preferences</strong></td><td>Your working preferences</td></tr><tr><td><a href="../../cameras.md"><strong>Cameras</strong></a></td><td>Monitor the available cameras</td></tr><tr><td><strong>Lights</strong></td><td>Lighting controls</td></tr><tr><td><strong>Stage Controls</strong></td><td>Controls for stage machinery</td></tr><tr><td><strong>Sound</strong></td><td>Sound mixing desk</td></tr><tr><td><strong>Mocap</strong></td><td>Assign motion capture sources</td></tr><tr><td><a href="../working-with-time/script.md"><strong>Script</strong></a></td><td>Work with the script view</td></tr><tr><td><a href="../working-with-time/timeline.md"><strong>Timeline</strong></a></td><td>Work with the timeline view</td></tr><tr><td><a href="../working-with-things/inspector.md"><strong>Inspector</strong></a></td><td>Inspect and modify the properties of things</td></tr><tr><td><strong>Collaboration</strong></td><td>Team collaboration</td></tr><tr><td><a href="../undo-redo.md"><strong>Undo History</strong></a></td><td>Rewind the Undo History</td></tr></tbody></table>
 
 Below the main screen, are the [Transport Controls](broken-reference).
 
