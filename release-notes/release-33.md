@@ -22,6 +22,10 @@ In one of our tests, a scene which took more than 3 minutes to load previously, 
 
 There is now also a waiting area in VR while loading happens which is much more comfortable as loading leads to stalls giving unpleasant reprojection artefacts on the Vive or Index and even worse compression artefacts with the Quest and PC/Air Link.
 
+{% hint style="warning" %}
+Note that the next time you start FirstStage it will uncompress any asset bundles you have already downloaded. This may take some time. But it will mean the asset bundles load much faster.
+{% endhint %}
+
 ## More Parametric Shapes
 
 New parametric shapes:
