@@ -1,10 +1,8 @@
 # Setting up Oculus
 
+## Setting up an Oculus Quest 2
+
 If you are using the Meta Quest 2 or Rift headset, you will need to setup the link between the headset and the PC.
-
-{% embed url="https://www.meta.com/gb/quest/setup/" %}
-
-{% embed url="https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/" %}
 
 1. Install FirstStage on your PC.
 2. [Install the Oculus desktop app on your PC](https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-rift-s/install-oculus-pc-app/).
@@ -34,10 +32,18 @@ _Tip - IF YOUR HEADSET GOES TO SLEEP DURING A SESSION, when you put the headset 
 
 
 
-Rift users may find the following video helpful
+## More information
 
-{% embed url="https://www.youtube.com/watch?ab_channel=JonnoPlays&v=Fpm4yv_ZlYg" %}
+{% embed url="https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/" %}
+
+{% embed url="https://www.meta.com/gb/quest/setup/" %}
 
 Quest 2 users may find the following video helpful:
 
 {% embed url="https://www.youtube.com/watch?ab_channel=InsiderTech&v=b2pTo7-eNSE" %}
+
+## Setting up an Oculus Rift
+
+Rift users may find the following video helpful
+
+{% embed url="https://www.youtube.com/watch?ab_channel=JonnoPlays&v=Fpm4yv_ZlYg" %}
