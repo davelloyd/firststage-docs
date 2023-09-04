@@ -14,13 +14,5 @@ If you point at a thing and press and hold the Inspect button (Vive Menu button 
 
 <figure><img src="../../.gitbook/assets/DUMMY 2023-02-20 17-16-54.jpg" alt=""><figcaption></figcaption></figure>
 
-| Hide Handles     | Hide any handles showing.                             |
-| ---------------- | ----------------------------------------------------- |
-| Movement Handles | Show the movement handles.                            |
-| Waldo            | Show the Waldo: remote controls for moving a thing.   |
-| Attach           | Show the handle for attaching this to something else. |
-| Start Motion     | Create a keyframe to start a motion path animation.   |
-| Reset Pose       | Reset a character's pose to default.                  |
-| Steer            | Create a steer path for a character to follow.        |
-| Edit Shape       | Edit a sketch or procedural shape.                    |
+<table data-header-hidden><thead><tr><th width="227"></th><th></th></tr></thead><tbody><tr><td>Hide Handles</td><td>Hide any handles showing.</td></tr><tr><td>Movement Handles</td><td>Show the movement handles.</td></tr><tr><td>Waldo</td><td>Show the Waldo: remote controls for moving a thing.</td></tr><tr><td>Attach</td><td>Show the handle for attaching this to something else.</td></tr><tr><td>Start Motion</td><td>Create a keyframe to start a motion path animation.</td></tr><tr><td>Reset Pose</td><td>Reset a character's pose to default.</td></tr><tr><td>Steer</td><td>Create a steer path for a character to follow.</td></tr><tr><td>Edit Shape</td><td>Edit a sketch or procedural shape.</td></tr></tbody></table>
 

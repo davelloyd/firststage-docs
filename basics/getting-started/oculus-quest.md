@@ -28,7 +28,9 @@ With everything ready to go, to run FirstStage on an Oculus you should:
 This should automatically start up Steam, and you should arrive at the FirstStage login screen.
 
 * Login to go to the Projects screen and open a scene.\
-  _NB - If there is an update required, you will need to agree to allow changes, before the patch is installed, before you are returned to the Login screen._
+  _Note - If there is an update required, you will need to agree to allow changes, before the patch is installed, before you are returned to the Login screen._
+
+_Tip - IF YOUR HEADSET GOES TO SLEEP DURING A SESSION, when you put the headset back on, you may need to Launch your AirLink again. Doing this may initially place you on stage, before the headset goes to the 'grey grid room' but without the console. To get back on stage in FirstStage, just take your headset off briefly, then put it back on._
 
 
 
