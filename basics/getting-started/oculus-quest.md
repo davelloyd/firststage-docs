@@ -22,10 +22,11 @@ With everything ready to go, to run FirstStage on an Oculus you should:
   If by Air Link, you will need to turn on the Air Link switch to see your PC listed.\
   Select your PC and click Launch
 
-Now start FirstStage
+5. Now start FirstStage
 
-* This should automatically start up Steam, and you should arrive at the FirstStage login screen\
-  Login to go to the Projects screen and open a scene.\
+This should automatically start up Steam, and you should arrive at the FirstStage login screen
+
+* Login to go to the Projects screen and open a scene.\
   _NB - If there is an update required, you will need to agree to allow changes, before the patch is installed, before you are returned to the Login screen_
 
 
