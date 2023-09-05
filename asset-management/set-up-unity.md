@@ -42,7 +42,7 @@ _NB - If you had already installed Unity you can skip most of these steps but ma
 
 ## Prepare the FirstStage Asset Importer project
 
-The next step is download our Asset Importer template project for importing assets from [HERE](https://firststage.s3.eu-central-1.amazonaws.com/Asset+Importer.zip).
+The next step is download our Asset Importer template project for importing assets from [HERE](https://firststage.s3.eu-central-1.amazonaws.com/Asset%20Importer.zip).
 
 1. **Download** the Asset Importer.zip file
 2. **Unzip** this into a suitable local location.
