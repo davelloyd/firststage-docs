@@ -4,7 +4,7 @@ Moviestorm FirstStage is built on the Unity Game Engine. As a result, all asset 
 
 ## Install Unity
 
-FirstStage uses the 2020 (LTS) version of the Unity engine. The easiest way to locate that version is via the [Unity Hub](https://unity3d.com/get-unity/download).
+FirstStage uses the 2022 (LTS) version of the Unity engine. The easiest way to locate that version is via the [Unity Hub](https://unity3d.com/get-unity/download).
 
 ### Install the Unity Hub
 
@@ -24,14 +24,14 @@ In order to use the Hub, you will need to create an account with Unity if you do
 * Click on the link in ‘If you don't have a Unity ID, please create one.’
 * Fill out the form details as instructed and click on the Create a Unity ID button, then Sign in
 
-### Install Unity version 2020.3.41
+### Install Unity version 2022.2.18f1
 
 ![](https://firststage.moviestorm.co.uk/wp-content/uploads/2020/10/Unity-Hub-New-Install-1.jpg)
 
-<figure><img src="https://firststage.moviestorm.co.uk/wp-content/uploads/2020/10/Unity-Hub-New-Install-2.jpg" alt=""><figcaption><p>1.3.2 - Select the required version number</p></figcaption></figure>
+<figure><img src="https://firststage.moviestorm.co.uk/wp-content/uploads/2020/10/Unity-Hub-New-Install-2.jpg" alt=""><figcaption><p>Select the required version number - choose Unity 2022.2.18f1 (not 2018 as shown)</p></figcaption></figure>
 
 1. Select the Installs section and click the Add button to launch the ‘Add Unity Version’ pop up
-2. Select ‘Unity 2020 (LTS)’ in the list of Latest Official Releases and click Next
+2. Select ‘Unity 2022.2.18f1 (LTS)’ in the list of Latest Official Releases and click Next
 3. Click Done
 
 _NB - No additional modules are required, but we recommend that you keep the default selected ‘Documentation’ module._
