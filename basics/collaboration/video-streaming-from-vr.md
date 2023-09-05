@@ -20,6 +20,15 @@ It will work with [any video conferencing solution that supports shared screen](
 
 … It is as simple as that!
 
+## Troubleshooting
+
+Depending upon your system, video conferencing tools can suffer from a low frame rate. To avoid this:
+
+* Try installing OBS Studio (a free and open source video recording and live streaming software).\
+  Create a select a Window Capture of the FirstStage application in Sources (which should then show FirstStage window in the preview panel), then click Start Virtual Camera.\
+  Choose the OBS Virtual Camera as your video source in your video conferencing software.\
+  _Note - You may need to switch on Computer Sound to hear what is happening on set in FirstStage_
+
 {% hint style="info" %}
 If users do not like the 1st person perspective, you can press Tab whilst the FirstStage window is selected, to cycle between that and an over-shoulder 3rd person perspective.
 {% endhint %}

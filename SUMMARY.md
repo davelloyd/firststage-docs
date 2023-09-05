@@ -50,6 +50,7 @@
 * [Undo / Redo](basics/undo-redo.md)
 * [Collaboration](basics/collaboration/README.md)
   * [Video Streaming from VR](basics/collaboration/video-streaming-from-vr.md)
+  * [Running a Workshop](basics/collaboration/running-a-workshop.md)
 * [Using FirstStage on the Desktop](basics/using-firststage-on-the-desktop.md)
 
 ## Crafting
