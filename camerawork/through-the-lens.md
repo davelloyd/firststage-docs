@@ -58,10 +58,7 @@ If the body of the camera is following another thing, it will show in the left h
 
 A dropdown lets you choose how the camera follows its target:
 
-| Rigid Attach  | The camera will track its target rigidly moving and rotating as if attached to the target.                                                                                                                                                   |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Track         | The camera will maintain the same position relative to the target but will not swing round as the target turns.                                                                                                                              |
-| Simple Follow | Mimics a human operator following a target: the camera tries to move as little as possible to maintain the distance and elevation from the target. Unlike the Tracking behaviour, it means that targets can move close and past the camera.  |
+<table data-header-hidden><thead><tr><th width="222"></th><th></th></tr></thead><tbody><tr><td>Rigid Attach</td><td>The camera will track its target rigidly moving and rotating as if attached to the target.</td></tr><tr><td>Track</td><td>The camera will maintain the same position relative to the target but will not swing round as the target turns.</td></tr><tr><td>Simple Follow</td><td>Mimics a human operator following a target: the camera tries to move as little as possible to maintain the distance and elevation from the target. Unlike the Tracking behaviour, it means that targets can move close and past the camera. </td></tr></tbody></table>
 
 The **Damping** slider sets how quickly the camera body tracks the target. At 0, the camera tracks rigidly. Increasing the damping response time slows down how quickly the camera will catch with the target leading to smoother camera behaviour.
 

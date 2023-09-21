@@ -12,7 +12,7 @@ Familiarise yourself with the controllers before you get started and make sure y
 
 ## Valve Index
 
-![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 ## Basic Controls
 

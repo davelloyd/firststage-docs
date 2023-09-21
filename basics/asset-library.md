@@ -30,15 +30,7 @@ To help refine your search, the desk in front of you shows a grid of tags. Click
 
 The top row holds the top categories. Clicking on one of these will show only those tags for which there are assets with that tag and the top category.
 
-| Category    | Usage                                                                          |
-| ----------- | ------------------------------------------------------------------------------ |
-| Character   | Humanoid characters that can be posed, animated, etc.                          |
-| Prop        | General props and set dressing                                                 |
-| Environment | Scenery                                                                        |
-| Vehicle     | Land, air or sea vehicles.                                                     |
-| Interactive | Props that can be used in performance capture or the player can interact with. |
-| Shape       | Geometric primitives and procedural shapes                                     |
-| VFX         | Visual effects such as fires, etc.                                             |
+<table><thead><tr><th width="246">Category</th><th>Usage</th></tr></thead><tbody><tr><td>Character</td><td>Humanoid characters that can be posed, animated, etc.</td></tr><tr><td>Prop</td><td>General props and set dressing</td></tr><tr><td>Environment</td><td>Scenery</td></tr><tr><td>Vehicle</td><td>Land, air or sea vehicles.</td></tr><tr><td>Interactive</td><td>Props that can be used in performance capture or the player can interact with.</td></tr><tr><td>Shape</td><td>Geometric primitives and procedural shapes</td></tr><tr><td>VFX</td><td>Visual effects such as fires, etc.</td></tr></tbody></table>
 
 In front of you is a board of topline categories and their associated tags, and a carousel of the resultant filtered assets to select from.
 
@@ -46,12 +38,7 @@ In front of you is a board of topline categories and their associated tags, and 
 
 On the left hand side there are buttons that let you limit the scope of which assets to choose from:
 
-| **All**     | All assets available for use in this scene: public, project and local.                                            |
-| ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Public**  | These assets are provided for all users of FirstStage                                                             |
-| **Project** | These assets have been imported into this project.                                                                |
-| **Local**   | These assets have only been imported locally on this machine.                                                     |
-| **Scene**   | Only those assets used in the scene. Can be useful for finding assets you've already used and want to use again.  |
+<table data-header-hidden><thead><tr><th width="375"></th><th></th></tr></thead><tbody><tr><td><strong>All</strong></td><td>All assets available for use in this scene: public, project and local.</td></tr><tr><td><strong>Public</strong></td><td>These assets are provided for all users of FirstStage</td></tr><tr><td><strong>Project</strong></td><td>These assets have been imported into this project.</td></tr><tr><td><strong>Local</strong></td><td>These assets have only been imported locally on this machine.</td></tr><tr><td><strong>Scene</strong></td><td>Only those assets used in the scene. Can be useful for finding assets you've already used and want to use again. </td></tr></tbody></table>
 
 
 

@@ -26,7 +26,7 @@ You can **Ungroup** a group from the Inspector which will revert the collection 
 
 You can also **Open** a group from the Inspector which will open the collection so that individual things can be moved, deleted or otherwise modified. However the collection is preserved (along with any properties such as name) and once you have finished editing the components, you can **Close** the collection and it will again behave as a single thing.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>An opened group showing the Inspector view and the individual components labelled.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>An opened group showing the Inspector view and the individual components labelled.</p></figcaption></figure>
 
 You can temporarily hide individual components which can make it easier to manipulate components otherwise obscured.
 

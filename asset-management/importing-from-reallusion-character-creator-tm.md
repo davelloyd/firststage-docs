@@ -29,7 +29,7 @@ Follow the [instructions here](https://manual.reallusion.com/CC\_and\_IC\_Auto\_
 4. The Project view should now be showing the prefab for the new character. If you click on the top button in the right hand column of the Importer tool, it will show you your character in a new scene. Here you can have a look to see if looks ok and if not you can adjust the settings to fix it.
 5. Finally, right-click on the prefab and select **Create FirstStage Puppet**: this will generate another prefab which is configured for FirstStage and is the one we will commit to the repository.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 For background characters, you might want to select Basic Materials, Basic Eyes, One Pass Hair and No Features. Particularly if you want to populate a scene with lots of them.
 

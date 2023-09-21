@@ -10,8 +10,6 @@ Choose **Edit Shape** from the [Inspect Menu](../basics/working-with-things/#ins
 
 As well as manipulating the overall shape, you can also change how the shape is constructed from the [Inspector](../basics/working-with-things/inspector.md):
 
-| **Curve Smoothing** | <p>Choose between: None, Low, Medium, High.<br><strong>None</strong> will use straight lines between control points.<br><strong>Low, Medium, High</strong> will produce succesively smoother curves between control points.</p> |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Facets per Turn** | <p>Sets how many facets are used around the axis.<br>Small numbers like 3-6 can be used for special effect. <br>High numbers will make for smoother circles.</p>                                                                |
+<table data-header-hidden><thead><tr><th width="206"></th><th></th></tr></thead><tbody><tr><td><strong>Curve Smoothing</strong></td><td>Choose between: None, Low, Medium, High.<br><strong>None</strong> will use straight lines between control points.<br><strong>Low, Medium, High</strong> will produce succesively smoother curves between control points.</td></tr><tr><td><strong>Facets per Turn</strong></td><td>Sets how many facets are used around the axis.<br>Small numbers like 3-6 can be used for special effect. <br>High numbers will make for smoother circles.</td></tr></tbody></table>
 
 <figure><img src="../.gitbook/assets/DUMMY 2023-02-20 17-10-28.jpg" alt=""><figcaption><p>A shape with no curve smoothing and only 4 facets per turn (i.e., square).</p></figcaption></figure>
