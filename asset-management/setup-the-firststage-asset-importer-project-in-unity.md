@@ -25,6 +25,8 @@ This will simplify adding assets to local or cloud based FirstStage projects
 
 * Go back to the Unity Hub and select the Projects section and click the Add button
 * Navigate to where you unzipped the Asset Importer project and select that folder.
+* Now that the Asset Importer is in the Projects list, click on it to start the Unity Editor.
+* Go here for a basic [understanding of the Unity Editor](https://firststage.moviestorm.co.uk/knowledgebase/unity-basics/)
 
 {% hint style="info" %}
 You should now have an entry for ‘Asset Importer’ under your Projects. In the Unity Version column, select the version we just installed (it will be the only one unless you have previous versions of Unity installed) to launch it.

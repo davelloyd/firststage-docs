@@ -40,27 +40,9 @@ This will start downloading and installing Unity onto your PC.
 
 _NB - If you had already installed Unity you can skip most of these steps but make sure you do have the right version of Unity installed._
 
-## Prepare the FirstStage Asset Importer project
+##
 
-The next step is download our Asset Importer template project for importing assets from [HERE](https://firststage.s3.eu-central-1.amazonaws.com/Asset%20Importer.zip).
 
-1. **Download** the Asset Importer.zip file
-2. **Unzip** this into a suitable local location.
-
-We would NOT recommend selecting a network drive as there is a lot of data to read, or in a cloud sync’d area such as G-Drive.
-
-## Add the Asset Importer project to Unity
-
-This will simplify adding assets to local or cloud based FirstStage projects
-
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-1. Go back to the Unity Hub and select the Projects section and click the Add button
-2. Navigate to where you unzipped the Asset Importer project and select that folder.
-3. Now that the Asset Importer is in the Projects list, click on it to start the Unity Editor.
-4. Go here for a basic [understanding of the Unity Editor](https://firststage.moviestorm.co.uk/knowledgebase/unity-basics/)
 
 {% hint style="info" %}
 You should now have an entry for ‘Asset Importer’ under your Projects. In the Unity Version column, select the version we just installed (it will be the only one unless you have previous versions of Unity installed) to launch it.
