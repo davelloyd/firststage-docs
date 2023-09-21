@@ -99,6 +99,7 @@
 * [FirstStage Repository](asset-management/firststage-repository.md)
 * [Set up Unity](asset-management/set-up-unity.md)
 * [Unity Basics](asset-management/unity-basics.md)
+* [Setup the FirstStage Asset Importer project in Unity](asset-management/setup-the-firststage-asset-importer-project-in-unity.md)
 * [Asset Import Process](asset-management/asset-import-process/README.md)
   * [Source assets and import](asset-management/asset-import-process/source-assets-and-import.md)
   * [Prepare Assets for FirstStage](asset-management/asset-import-process/prepare-assets-for-firststage.md)
