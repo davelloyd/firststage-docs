@@ -47,7 +47,7 @@ It usually helps to reboot your headset at this point to activate developer mode
 
 Connect your Quest to your PC with the USB cable. If you look in your headset, you should see it asking for permission for the connected device to access files and enable debugging. Click on **Allow**.
 
-Download FirstStage from here:
+Download FirstStage to your PC from here:
 
 {% embed url="https://firststage.s3.eu-central-1.amazonaws.com/FirstStage.apk" %}
 
@@ -71,4 +71,4 @@ Please wait while FirstStage downloads the asset bundles and then you will be in
 
 The Quest devices are nowhere near as powerful as a typical PC: lighting is much more limited: we usually cannot afford shadows or much in the way of post processing like ambient occlusion.&#x20;
 
-However FirstStage has been optimised for the Quest and works well. If you are careful with how many assets you use, you can make very effective scenes.
+However FirstStage has been optimised for the Quest and works well. If you are careful with how many assets you use, and their complexity, you can make very effective scenes.
