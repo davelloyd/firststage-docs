@@ -17,6 +17,8 @@ You will need a user account to start FirstStage. Go here to sign up:
 
 To download the FirstStage installer, [click here](https://firststage.s3.eu-central-1.amazonaws.com/FirstStageSetup.exe). Then run it to install FirstStage.
 
+{% embed url="https://firststage.s3.eu-central-1.amazonaws.com/FirstStageSetup.exe" %}
+
 ## Set up SteamVR
 
 If you have a Vive or an Index headset, SteamVR will be installed while setting up your headset.

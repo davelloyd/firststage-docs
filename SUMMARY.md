@@ -12,6 +12,7 @@
   * [Setting up Voice Recognition](basics/getting-started/setting-up-voice-recognition.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
+  * [Installing on Quest (Standalone)](basics/getting-started/installing-on-quest-standalone.md)
 * [The Office](basics/the-office.md)
 * [Projects](basics/projects/README.md)
   * [Project Team](basics/projects/project-team.md)
