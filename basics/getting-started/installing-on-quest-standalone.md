@@ -12,16 +12,17 @@ EARLY BETA
 
 FirstStage is not on the Oculus store (yet), so you will also need the following:
 
-* Sidequest running on a PC
-* A Meta account with developer access
-* The Oculus app running on a phone
-* Enable Developer mode on your Quest
+1. Sidequest running on a PC
+2. A Meta account with developer access
+3. The Meta Quest app running on a phone
+4. Developer mode enabled on your Quest
+5. Installation of the FirstStage software
 
 ## SideQuest
 
 This PC application is used to load FirstStage directly onto your headset.
 
-Download and from the link below. You will want the **Advanced Installer**:
+From the link below, download the **Advanced Installer**:
 
 {% embed url="https://sidequestvr.com/setup-howto" %}
 
@@ -29,46 +30,60 @@ Download and from the link below. You will want the **Advanced Installer**:
 
 You should already have a Meta account that you used to set up your Quest. You now need to make that a developer account.
 
-If you start SideQuest and click on **OPEN SETUP INSTRUCTIONS** there is a HowTo for doing this (with a little video to help).
-
-Or you can go directly to:
+If you start SideQuest and click on **OPEN SETUP INSTRUCTIONS** there is a HowTo for doing this (with a little video to help), or use the link below:
 
 {% embed url="https://developer.oculus.com/sign-up/" %}
 
-## Oculus App
+## Meta Quest App
 
-Now that you have developer status, open the Oculus app on your mobile phone: it should be easy to find on either the Apple or Android stores and you may well have already installed it as part of setting up your Quest.
+Now that you have developer status, open the Meta Quest app on your mobile phone: it should be easy to find on either the Apple or Android stores, and you may well have already installed it as part of setting up your Quest.
 
-Go to the **Settings** tab and select your headset. Then go to **More Settings** and there should be a switch for **Developer Mode**. Turn that on.
+<figure><img src="../../.gitbook/assets/Oculus app.JPG" alt=""><figcaption><p>The Meta Quest app icon</p></figcaption></figure>
 
-It usually helps to reboot your headset at this point to activate developer mode.
+Click the **Menu** 'hamburger' icon to open the Menu screen
+
+Click the **Devices** button and select your headset
+
+Click the Settings icon to open **Headset settings**
+
+Select **Developer Mode** from the list, and make sure the switch is on
+
+{% hint style="info" %}
+Please note, Meta are constantly changing their user interface, so these instructions may not age very well!
+{% endhint %}
+
+As this point, **restart your headset** to activate developer mode\
+Press and hold the power button on the right-hand side of your headset until you see the Power Off screen. Select Restart.
 
 ## Installing FirstStage
 
-Connect your Quest to your PC with the USB cable. If you look in your headset, you should see it asking for permission for the connected device to access files and enable debugging. Click on **Allow**.
+(see [Getting Started](./) for help on how to install FirstStage)
 
-Download FirstStage to your PC from here:
+**Download FirstStage** to your PC from here:
 
 {% embed url="https://firststage.s3.eu-central-1.amazonaws.com/FirstStage.apk" %}
 
-Now go to SideQuest and click on the icon (top right row in the middle) to **Install APK file from folder on computer** and then select FirstStage.apk from where you downloaded it to.
+**Connect your Quest to your PC using a USB 3.0 to USB C link cable**, as this stage involves transferring a lot of data to your headset.
 
-## Starting FirstStage
+**Put on your headset** and you should see a permission request for the connected device to access files and enable debugging. Click on **Allow**.
 
-Once FirstStage is installed on your Quest, stick your headset on and go to the **App Library** (far right of the main menu bar).
+To install FirstStage on your Quest, **open SideQuest on your PC** and click on the **Install APK file from folder** icon and then select the FirstStage.apk file from where you downloaded it.
 
-Click on the **Search Apps** field at the top.
+<figure><img src="../../.gitbook/assets/SideQuest - Install APK file.jpg" alt=""><figcaption><p>SideQuest - Install APK file from folder</p></figcaption></figure>
 
-Top right, click on the dropdown showing **All** and select **Unknown Sources**.
+**Connect to your FirstStage account** on your Quest
 
-You should see FirstStage in the list: click to start.
+* With FirstStage is installed on your Quest, put your headset on and go to the **App Library** (far right of the main menu bar).
+* Click on the **Search Apps** field at the top.
+* Click on the dropdown (in the top right) showing **All** and select **Unknown Sources**.
+* You should see FirstStage in the list: **click on FirstStage** to start.
 
-You will now need to login with your FirstStage user account.
+You will now need to login using your FirstStage user account.
 
-Please wait while FirstStage downloads the asset bundles and then you will be in the Office.
+At this point, FirstStage will start to download all the asset bundles required to support your scenes, before you end up in the FirstStage Office, where you can select a Scene.
 
-## Notes
+## _Notes_
 
-The Quest devices are nowhere near as powerful as a typical PC: lighting is much more limited: we usually cannot afford shadows or much in the way of post processing like ambient occlusion.&#x20;
+_Standalone Quest devices are nowhere near as powerful as a typical PC, so the graphical quality may not seem as high fidelity as when using a PC Link. For example, lighting is much more limited._&#x20;
 
-However FirstStage has been optimised for the Quest and works well. If you are careful with how many assets you use, and their complexity, you can make very effective scenes.
+_However, FirstStage has been optimised for the Quest and works well. If you are careful with how many assets you use, and their complexity, you can make very effective scenes._

@@ -26,7 +26,7 @@ Further details about using Unity's SketchUp importer can be found [here](https:
 
 SketchUp is often used to model buildings and environments. For these, it is often more appropriate to import a whole scene which can then be used as a stage inside FirstStage.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Example stage imported from SketchUp</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Example stage imported from SketchUp</p></figcaption></figure>
 
 In this case, you can just take the scene you created earlier to test the model in and give it a memorable name and import the whole scene:
 

@@ -12,14 +12,33 @@ With everything ready to go, to run FirstStage on an Oculus you should:
 
 4. Connect your Oculus headset.
 
-* Start the Oculus app and put on your headset.\
-  You should see the virtual Meta browser infront of you. Using your controllers, point at the clock area on the Task Bar and click to enter Quick Settings.
-* Use the Wi-Fi panel to connect to the internet via your wi-fi.
-* Use the Quest Link panel to connect to your PC.\
-  If by PC Link cable, you should see your PC already listed.\
-  If by Air Link, you will need to turn on the Air Link switch to see your PC listed.\
-  Select your PC and click Launch.\
-  You should be in a 'grey grid room' with a console in from of you.
+Start the Oculus app on your PC and put on your headset and you should see the virtual Meta browser infront of you.&#x20;
+
+Enter Quick Settings to set up Wi-Fi and your PC link\
+Using your controllers, point at the Quick Settings area on the Task Bar, and click to enter Quick Settings.
+
+
+
+<figure><img src="../../.gitbook/assets/Click to access Quick Settings.JPG" alt=""><figcaption><p>Click to enter Quick Settings</p></figcaption></figure>
+
+Inside Quick Settings, click on the Wi-Fi panel to connect to the internet via your wi-fi.
+
+
+
+<figure><img src="../../.gitbook/assets/Click to connect to your WiFi.jpg" alt=""><figcaption><p>Click to connect to your WiFi</p></figcaption></figure>
+
+Also, in Quick Settings, click on Oculus Air Link Use the Quest Link panel to connect to your PC.
+
+
+
+<figure><img src="../../.gitbook/assets/Click to set up Quest Link.jpg" alt=""><figcaption><p>Click to set up Quest Link</p></figcaption></figure>
+
+* If connecting with a PC Link cable already connected, you should see your PC already listed.
+* If connecting by Air Link, you will need to turn on the Air Link switch to see your PC listed.
+
+Select your PC and click Launch.
+
+You should be in a 'grey grid room' with a console in from of you.
 
 5. Now start FirstStage
 

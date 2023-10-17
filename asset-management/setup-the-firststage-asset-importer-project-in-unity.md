@@ -19,9 +19,9 @@ We would NOT recommend selecting a network drive as there is a lot of data to re
 
 This will simplify adding assets to local or cloud based FirstStage projects
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Go back to the Unity Hub and select the Projects section and click the Add button
 * Navigate to where you unzipped the Asset Importer project and select that folder.
