@@ -92,8 +92,12 @@
 
 * [Player](interactive-scenes/player.md)
 * [Branching Scripts](interactive-scenes/branching-scripts.md)
-* [Triggers](interactive-scenes/triggers.md)
+* [Triggers](interactive-scenes/triggers/README.md)
+  * [Trigger Volume](interactive-scenes/triggers/trigger-volume.md)
+  * [Click to Trigger](interactive-scenes/triggers/click-to-trigger.md)
+  * [Place To Trigger](interactive-scenes/triggers/place-to-trigger.md)
 * [Multiple Choice Dialog](interactive-scenes/multiple-choice-dialog.md)
+* [Task Checklist](interactive-scenes/task-checklist.md)
 
 ## Asset Management
 
