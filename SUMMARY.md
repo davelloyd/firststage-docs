@@ -2,13 +2,14 @@
 
 * [Welcome](README.md)
 * [Release Notes](release-notes/README.md)
+  * [Release 34](release-notes/release-34.md)
   * [Release 33](release-notes/release-33.md)
   * [Release 32](release-notes/release-32.md)
 
 ## Basics
 
 * [Getting Started](basics/getting-started/README.md)
-  * [Setting up Oculus](basics/getting-started/oculus-quest.md)
+  * [Setting up a Quest headset](basics/getting-started/setting-up-a-quest-headset.md)
   * [Setting up Voice Recognition](basics/getting-started/setting-up-voice-recognition.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)

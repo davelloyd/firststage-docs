@@ -1,8 +1,28 @@
-# Setting up Oculus
+# Setting up a Quest headset
 
-## Setting up an Oculus Quest 2
+If you are using the Meta Quest 2/3/Pro headset, you will need to setup the link between the headset and the PC. There are two ways you can do this:
 
-If you are using the Meta Quest 2 or Rift headset, you will need to setup the link between the headset and the PC.
+* Steam Link which has been recently introduced by Valve to provide a better experience on the Quest.
+* Oculus PC Link which has been available for some time but in our experience does not behave as well. It's main advantage is that it can use a link cable as well as WiFi.
+
+## Steam Link
+
+Requires 5G WiFi (Quest and PC should be on the same network). Adding a dedicated wifi adapter to your PC for use as a hotspot can help if you share you WiFi with other users.
+
+1. Install FirstStage on your PC.
+2. Install the [Steam Link app](https://www.meta.com/en-gb/experiences/5841245619310585/) on your Quest.
+3. [Install Steam on your PC](https://help.steampowered.com/en/faqs/view/099E-F5D1-8780-4778).
+
+Once these are installed:
+
+1. Start Steam running on your PC.
+2. Start the Steam Link app on your Quest. The first time it will give you instructions on how to connect to your PC.
+3. Start FirstStage on your PC.
+4. Put your headset on and you should be in FirstStage!
+
+## PC Link
+
+Requires either WiFi (5G preferred) or a [Link Cable](https://www.meta.com/gb/quest/accessories/link-cable/).
 
 1. Install FirstStage on your PC.
 2. [Install the Oculus desktop app on your PC](https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-rift-s/install-oculus-pc-app/).
