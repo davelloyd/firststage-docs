@@ -15,7 +15,7 @@ Requires 5G WiFi (Quest and PC should be on the same network). Adding a dedicate
 
 Once these are installed:
 
-1. Start Steam running on your PC.
+1. Start the Steam VR app on your PC.
 2. Start the Steam Link app on your Quest. The first time it will give you instructions on how to connect to your PC.
 3. Start FirstStage on your PC.
 4. Put your headset on and you should be in FirstStage!
