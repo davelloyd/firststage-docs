@@ -22,6 +22,6 @@ Once FirstStage starts you will need to login: you can use either your FirstStag
 
 ## _Notes_
 
-_Standalone Quest devices are nowhere near as powerful as a typical PC, so the graphical quality may not seem as high fidelity as when using a PC Link. For example, lighting is much more limited._&#x20;
+_Standalone Quest devices are nowhere near as powerful as a typical PC, so the graphical quality may not seem as high fidelity as when using PCVR via SteamLink. For example, lighting is much more limited._&#x20;
 
 _However, FirstStage has been optimised for the Quest and works well. If you are careful with how many assets you use, and their complexity, you can make very effective scenes._

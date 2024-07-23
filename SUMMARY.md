@@ -11,7 +11,6 @@
 
 * [Getting Started](basics/getting-started/README.md)
   * [Setting up a Quest headset](basics/getting-started/setting-up-a-quest-headset.md)
-  * [Setting up Voice Recognition](basics/getting-started/setting-up-voice-recognition.md)
   * [Starting FirstStage for the first time](basics/getting-started/starting-firststage-for-the-first-time.md)
   * [Controllers](basics/getting-started/controllers.md)
   * [Installing on Quest (Standalone)](basics/getting-started/installing-on-quest-standalone.md)
@@ -120,4 +119,3 @@
 * [Importing from SketchUp](asset-management/importing-from-sketchup.md)
 * [Creating a Character for Firstage using Character Creator](asset-management/creating-a-character-for-firstage-using-character-creator.md)
 * [Importing from Reallusion Character Creator™](asset-management/importing-from-reallusion-character-creator-tm.md)
-* [Importing a Ready Player Me avatar](asset-management/importing-a-ready-player-me-avatar.md)
