@@ -6,6 +6,7 @@
   * [Release 34](release-notes/release-34.md)
   * [Release 33](release-notes/release-33.md)
   * [Release 32](release-notes/release-32.md)
+  * [Release 30](release-notes/release-30.md)
 
 ## Basics
 
