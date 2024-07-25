@@ -1,8 +1,10 @@
 ---
-description: R32 is our first General Access release!   27th March 2023
+description: 27th March 2023
 ---
 
 # Release 32
+
+R32 is our first General Access release!
 
 As well as many bug fixes across all features, here are the main changes:
 
