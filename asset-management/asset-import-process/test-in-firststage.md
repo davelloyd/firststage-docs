@@ -34,7 +34,7 @@ Here you can test for:
 1. Can you find the Asset within Tags that you would expect to?\
    If no Tags have been added, the Assets will be in the root of the Asset Browser and not within any expected Tag filters.
 2. Are there now very similar Tags?\
-   This can happen when not matching an existing Tag exactly when adding them. That is why we provide a recommended [Asset Tag taxonomy](https://firststage.moviestorm.co.uk/asset-management/asset-tagging/) as a starting point to keep things consistent and sensible. Having found a close duplicate, will need to go back and change that Asset’s Tag and re-import to remove the erroneous Tag from the Asset Browser.
+   This can happen when not matching an existing Tag exactly when adding them. That is why we provide a recommended [Asset Tag taxonomy](export-to-firststage/asset-tagging.md) as a starting point to keep things consistent and sensible. Having found a close duplicate, will need to go back and change that Asset’s Tag and re-import to remove the erroneous Tag from the Asset Browser.
 
 _NB - A close look at 3d Asset sources on the internet will see that there is little consistency, and often taxonomies can be missing obvious Tags, or have very similar Tags, which are both a sign of a lack of planning that can come back to bite you if you expect to have a lot of Assets in your Asset Library._
 
