@@ -1,6 +1,6 @@
 # Fix common issues
 
-You are most likely to find issues with an asset that is already in FirstStage, as there is nothing like scrutinising an object from all angles in VR to check whether it is fit for purpose, but you may find issues in the Unity Editor as you personally [import an asset](https://firststage.moviestorm.co.uk/asset-management/2-prepare-for-firststage/).
+You are most likely to find issues with an asset that is already in FirstStage, as there is nothing like scrutinising an object from all angles in VR to check whether it is fit for purpose, but you may find issues in the Unity Editor as you personally [import an asset](./).
 
 If they are 3rd party assets issues can be commonplace, as not every 3d artist that publishes assets will set them up in the same way.
 

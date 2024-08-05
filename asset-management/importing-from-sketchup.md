@@ -16,7 +16,7 @@ Unity can import SketchUp files directly and is very easy to use:
 12. You can make further changes to your model now: you might want to add or change materials, etc. See other guides for how to do this.
 13. As SketchUp is often used for architectural models, you should select any meshes that you might want to walk on and change their layer to Ground.
 14. Once you are happy with your model, save it as a new prefab by dragging it from the Hierarchy view into your folder in the Project view.
-15. You are now ready to test this by [committing it to the local repository](https://firststage.moviestorm.co.uk/knowledgebase/4-test-in-firststage/).
+15. You are now ready to test this by [committing it to the local repository](asset-import-process/test-in-firststage.md).
 
 Further details about using Unity's SketchUp importer can be found [here](https://docs.unity3d.com/Manual/class-SketchUpImporter.html).
 
@@ -37,4 +37,4 @@ In this case, you can just take the scene you created earlier to test the model 
 5. Click Commit.
 6. It should now be available inside FirstStage.
 
-You might also find the guide on [importing scenes](https://firststage.moviestorm.co.uk/knowledgebase/example-2-unity-scene-import/) helpful.
+You might also find the guide on [importing scenes](asset-import-process/example-unity-scene-import.md) helpful.

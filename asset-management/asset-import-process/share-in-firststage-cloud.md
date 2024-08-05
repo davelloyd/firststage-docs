@@ -4,7 +4,7 @@
 
 This guide is only required for those working in teams and needing to share imported Assets and Scenes with others.
 
-_NB - Due to the time and cost of uploading, we fully recommend that you always_ [_test Assets and Scenes in your LOCAL repository first_](https://firststage.moviestorm.co.uk/asset-management/4-test-in-firststage/)_, and only commit to your cloud repository when issues are fixed._
+_NB - Due to the time and cost of uploading, we fully recommend that you always_ [_test Assets and Scenes in your LOCAL repository first_](test-in-firststage.md)_, and only commit to your cloud repository when issues are fixed._
 
 ### Make the asset available for remote collaboration
 
