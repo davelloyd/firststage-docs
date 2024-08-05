@@ -54,7 +54,7 @@ Issues that you may notice in the Unity Editor will likely be visual in the Scen
 * Missing Textures
 * Missing prefab
 
-For instructions on how to see and fix those and others, go to [Fixing Common Issues](https://firststage.moviestorm.co.uk/knowledgebase/5-fix-common-issues/)
+For instructions on how to see and fix those and others, go to [Fixing Common Issues](fix-common-issues.md)
 
 ## Preparing whole Scenes
 
@@ -107,7 +107,7 @@ If you import a scene and notice that some of the props (e.g., tables, chairs) a
 
 1. In the Project window, select the scene’s root folder and search for ‘prefab’ in the search box.\
    You will likely find a series of categorised folders called ‘Prefabs’ with all the scene’s assets in them
-2. **Follow the** [**Prepare for FirstStage**](https://firststage.moviestorm.co.uk/asset-management/2-prepare-for-firststage/) **and** [**Export to FirstStage**](https://firststage.moviestorm.co.uk/knowledgebase/3-export-to-firststage/) **guides to set up the assets correctly before importing them, either individually or in batches.**\
+2. **Follow the** [**Prepare for FirstStage**](prepare-assets-for-firststage.md) **and** [**Export to FirstStage**](export-to-firststage/) **guides to set up the assets correctly before importing them, either individually or in batches.**\
    This will include checking for obvious issues such as missingf textures, and adding tags and a description.
 
 _NB - Some prefabs may be part of the construction of the building and background (e.g. walls, floors, etc.). It is best to NOT import those._
