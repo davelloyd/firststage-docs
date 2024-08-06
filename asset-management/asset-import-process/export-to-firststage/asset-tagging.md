@@ -2,7 +2,11 @@
 
 The FirstStage Asset Tagging template has been created to provide a structured set of tags that can be applied to any asset, to allow them to be more easily found in FirstStage’s Asset Browser. This is not a definitive taxonomy, just a guide.
 
-To use it as a guide, select a top level category, then add tags for each appropriate term within that category.
+When importing asset from Unity and adding tags in the FirstStage repo window, always add a top level tag (e.g. Prop, Character, Animal, etc.) at minimum. Adding subtaags will help you find assets within that category.  To use it as a guide, select a top level category, then add tags for each appropriate term within that category.
+
+## Tags
+
+**Stylized** (add to any assets that are meant for Quest Standalone)
 
 **Prop**
 
@@ -106,14 +110,5 @@ Space\
 Suburban\
 Urban
 
-**Genre**
 
-Cartoon\
-Fantasy\
-Horror\
-Sci Fi\
-Sport\
-Theatre\
-TV Show\
-War\
-Western
+
